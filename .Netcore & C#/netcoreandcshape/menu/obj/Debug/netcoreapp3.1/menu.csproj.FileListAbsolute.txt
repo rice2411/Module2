@@ -10,3 +10,4 @@ D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\menu\obj\Debug\netcorea
 D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\menu\obj\Debug\netcoreapp3.1\menu.dll
 D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\menu\obj\Debug\netcoreapp3.1\menu.pdb
 D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\menu\obj\Debug\netcoreapp3.1\menu.genruntimeconfig.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\menu\obj\Debug\netcoreapp3.1\menu.csprojAssemblyReference.cache

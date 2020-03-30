@@ -10,3 +10,4 @@ D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\tienlai\bin\Debug\netco
 D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\tienlai\obj\Debug\netcoreapp3.1\tienlai.dll
 D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\tienlai\obj\Debug\netcoreapp3.1\tienlai.pdb
 D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\tienlai\obj\Debug\netcoreapp3.1\tienlai.genruntimeconfig.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\tienlai\obj\Debug\netcoreapp3.1\tienlai.csprojAssemblyReference.cache
