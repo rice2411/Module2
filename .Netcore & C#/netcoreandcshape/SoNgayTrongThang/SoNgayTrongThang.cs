@@ -12,6 +12,7 @@ namespace SoNgayTrongThang
             Console.WriteLine("Nhập số tháng: ");
             month = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(dayinmonth(month));
+            
         }
         public static string dayinmonth(int mont)
         {
