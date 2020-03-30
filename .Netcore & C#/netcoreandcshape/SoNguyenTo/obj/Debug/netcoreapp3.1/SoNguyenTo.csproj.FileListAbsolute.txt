@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenTo\obj\Debug\netcoreapp3.1\SoNguyenTo.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenTo\obj\Debug\netcoreapp3.1\SoNguyenTo.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenTo\obj\Debug\netcoreapp3.1\SoNguyenTo.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenTo\obj\Debug\netcoreapp3.1\SoNguyenTo.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenTo\bin\Debug\netcoreapp3.1\SoNguyenTo.exe
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenTo\bin\Debug\netcoreapp3.1\SoNguyenTo.deps.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenTo\bin\Debug\netcoreapp3.1\SoNguyenTo.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenTo\bin\Debug\netcoreapp3.1\SoNguyenTo.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenTo\bin\Debug\netcoreapp3.1\SoNguyenTo.dll
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenTo\bin\Debug\netcoreapp3.1\SoNguyenTo.pdb
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenTo\obj\Debug\netcoreapp3.1\SoNguyenTo.dll
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenTo\obj\Debug\netcoreapp3.1\SoNguyenTo.pdb
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenTo\obj\Debug\netcoreapp3.1\SoNguyenTo.genruntimeconfig.cache
