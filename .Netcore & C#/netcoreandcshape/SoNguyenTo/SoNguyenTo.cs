@@ -2,7 +2,7 @@
 using System.Text;
 namespace SoNguyenTo
 {
-    class Program
+    class SoNguyenTo
     {
         static void Main(string[] args)
         {
