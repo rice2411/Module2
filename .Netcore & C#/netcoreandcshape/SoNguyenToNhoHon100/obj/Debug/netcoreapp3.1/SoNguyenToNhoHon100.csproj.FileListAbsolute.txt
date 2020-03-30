@@ -1,0 +1,12 @@
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenToNhoHon100\bin\Debug\netcoreapp3.1\SoNguyenToNhoHon100.exe
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenToNhoHon100\bin\Debug\netcoreapp3.1\SoNguyenToNhoHon100.deps.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenToNhoHon100\bin\Debug\netcoreapp3.1\SoNguyenToNhoHon100.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenToNhoHon100\bin\Debug\netcoreapp3.1\SoNguyenToNhoHon100.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenToNhoHon100\bin\Debug\netcoreapp3.1\SoNguyenToNhoHon100.dll
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenToNhoHon100\bin\Debug\netcoreapp3.1\SoNguyenToNhoHon100.pdb
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenToNhoHon100\obj\Debug\netcoreapp3.1\SoNguyenToNhoHon100.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenToNhoHon100\obj\Debug\netcoreapp3.1\SoNguyenToNhoHon100.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenToNhoHon100\obj\Debug\netcoreapp3.1\SoNguyenToNhoHon100.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenToNhoHon100\obj\Debug\netcoreapp3.1\SoNguyenToNhoHon100.dll
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenToNhoHon100\obj\Debug\netcoreapp3.1\SoNguyenToNhoHon100.pdb
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\SoNguyenToNhoHon100\obj\Debug\netcoreapp3.1\SoNguyenToNhoHon100.genruntimeconfig.cache
