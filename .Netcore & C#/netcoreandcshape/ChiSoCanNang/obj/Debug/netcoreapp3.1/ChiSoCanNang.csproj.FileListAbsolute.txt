@@ -1,0 +1,12 @@
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChiSoCanNang\bin\Debug\netcoreapp3.1\ChiSoCanNang.exe
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChiSoCanNang\bin\Debug\netcoreapp3.1\ChiSoCanNang.deps.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChiSoCanNang\bin\Debug\netcoreapp3.1\ChiSoCanNang.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChiSoCanNang\bin\Debug\netcoreapp3.1\ChiSoCanNang.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChiSoCanNang\bin\Debug\netcoreapp3.1\ChiSoCanNang.dll
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChiSoCanNang\bin\Debug\netcoreapp3.1\ChiSoCanNang.pdb
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChiSoCanNang\obj\Debug\netcoreapp3.1\ChiSoCanNang.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChiSoCanNang\obj\Debug\netcoreapp3.1\ChiSoCanNang.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChiSoCanNang\obj\Debug\netcoreapp3.1\ChiSoCanNang.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChiSoCanNang\obj\Debug\netcoreapp3.1\ChiSoCanNang.dll
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChiSoCanNang\obj\Debug\netcoreapp3.1\ChiSoCanNang.pdb
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChiSoCanNang\obj\Debug\netcoreapp3.1\ChiSoCanNang.genruntimeconfig.cache
