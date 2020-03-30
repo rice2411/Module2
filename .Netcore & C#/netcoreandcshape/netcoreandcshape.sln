@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "menu", "menu\menu.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tienlai", "tienlai\tienlai.csproj", "{AD7EF21D-D1E7-475E-8AF1-59EC5E16F5EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UocChungLonNhat", "UocChungLonNhat\UocChungLonNhat.csproj", "{157756F7-9F2D-44F0-BBB9-19D72D8DA263}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{AD7EF21D-D1E7-475E-8AF1-59EC5E16F5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD7EF21D-D1E7-475E-8AF1-59EC5E16F5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD7EF21D-D1E7-475E-8AF1-59EC5E16F5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{157756F7-9F2D-44F0-BBB9-19D72D8DA263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157756F7-9F2D-44F0-BBB9-19D72D8DA263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157756F7-9F2D-44F0-BBB9-19D72D8DA263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157756F7-9F2D-44F0-BBB9-19D72D8DA263}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
