@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Dientichhinhchnhat\bin\Debug\netcoreapp3.1\Dientichhinhchnhat.exe
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Dientichhinhchnhat\bin\Debug\netcoreapp3.1\Dientichhinhchnhat.deps.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Dientichhinhchnhat\bin\Debug\netcoreapp3.1\Dientichhinhchnhat.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Dientichhinhchnhat\bin\Debug\netcoreapp3.1\Dientichhinhchnhat.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Dientichhinhchnhat\bin\Debug\netcoreapp3.1\Dientichhinhchnhat.dll
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Dientichhinhchnhat\bin\Debug\netcoreapp3.1\Dientichhinhchnhat.pdb
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Dientichhinhchnhat\obj\Debug\netcoreapp3.1\Dientichhinhchnhat.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Dientichhinhchnhat\obj\Debug\netcoreapp3.1\Dientichhinhchnhat.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Dientichhinhchnhat\obj\Debug\netcoreapp3.1\Dientichhinhchnhat.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Dientichhinhchnhat\obj\Debug\netcoreapp3.1\Dientichhinhchnhat.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Dientichhinhchnhat\obj\Debug\netcoreapp3.1\Dientichhinhchnhat.dll
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Dientichhinhchnhat\obj\Debug\netcoreapp3.1\Dientichhinhchnhat.pdb
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Dientichhinhchnhat\obj\Debug\netcoreapp3.1\Dientichhinhchnhat.genruntimeconfig.cache
