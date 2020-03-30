@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Datetime\bin\Debug\netcoreapp3.1\Datetime.exe
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Datetime\bin\Debug\netcoreapp3.1\Datetime.deps.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Datetime\bin\Debug\netcoreapp3.1\Datetime.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Datetime\bin\Debug\netcoreapp3.1\Datetime.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Datetime\bin\Debug\netcoreapp3.1\Datetime.dll
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Datetime\bin\Debug\netcoreapp3.1\Datetime.pdb
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Datetime\obj\Debug\netcoreapp3.1\Datetime.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Datetime\obj\Debug\netcoreapp3.1\Datetime.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Datetime\obj\Debug\netcoreapp3.1\Datetime.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Datetime\obj\Debug\netcoreapp3.1\Datetime.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Datetime\obj\Debug\netcoreapp3.1\Datetime.dll
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Datetime\obj\Debug\netcoreapp3.1\Datetime.pdb
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\Datetime\obj\Debug\netcoreapp3.1\Datetime.genruntimeconfig.cache
