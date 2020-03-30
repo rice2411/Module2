@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tienlai", "tienlai\tienlai.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UocChungLonNhat", "UocChungLonNhat\UocChungLonNhat.csproj", "{157756F7-9F2D-44F0-BBB9-19D72D8DA263}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoNgayTrongThang", "SoNgayTrongThang\SoNgayTrongThang.csproj", "{BC33302C-8B31-4382-9E5F-489464ED0549}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{157756F7-9F2D-44F0-BBB9-19D72D8DA263}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{157756F7-9F2D-44F0-BBB9-19D72D8DA263}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{157756F7-9F2D-44F0-BBB9-19D72D8DA263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC33302C-8B31-4382-9E5F-489464ED0549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC33302C-8B31-4382-9E5F-489464ED0549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC33302C-8B31-4382-9E5F-489464ED0549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC33302C-8B31-4382-9E5F-489464ED0549}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
