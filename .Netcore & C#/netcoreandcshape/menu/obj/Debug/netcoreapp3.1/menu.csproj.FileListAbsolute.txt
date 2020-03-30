@@ -1,0 +1,12 @@
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\menu\bin\Debug\netcoreapp3.1\menu.exe
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\menu\bin\Debug\netcoreapp3.1\menu.deps.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\menu\bin\Debug\netcoreapp3.1\menu.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\menu\bin\Debug\netcoreapp3.1\menu.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\menu\bin\Debug\netcoreapp3.1\menu.dll
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\menu\bin\Debug\netcoreapp3.1\menu.pdb
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\menu\obj\Debug\netcoreapp3.1\menu.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\menu\obj\Debug\netcoreapp3.1\menu.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\menu\obj\Debug\netcoreapp3.1\menu.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\menu\obj\Debug\netcoreapp3.1\menu.dll
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\menu\obj\Debug\netcoreapp3.1\menu.pdb
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\menu\obj\Debug\netcoreapp3.1\menu.genruntimeconfig.cache

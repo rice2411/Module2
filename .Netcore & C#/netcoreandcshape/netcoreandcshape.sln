@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dientichhinhchnhat", "Dient
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kiemtranamnhuan", "kiemtranamnhuan\kiemtranamnhuan.csproj", "{9FD360CD-63C9-4F1D-B223-7CD27A1EA932}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "menu", "menu\menu.csproj", "{141ECF7B-6117-4C86-8898-7534FA6BDC62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9FD360CD-63C9-4F1D-B223-7CD27A1EA932}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FD360CD-63C9-4F1D-B223-7CD27A1EA932}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FD360CD-63C9-4F1D-B223-7CD27A1EA932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{141ECF7B-6117-4C86-8898-7534FA6BDC62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141ECF7B-6117-4C86-8898-7534FA6BDC62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141ECF7B-6117-4C86-8898-7534FA6BDC62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141ECF7B-6117-4C86-8898-7534FA6BDC62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
