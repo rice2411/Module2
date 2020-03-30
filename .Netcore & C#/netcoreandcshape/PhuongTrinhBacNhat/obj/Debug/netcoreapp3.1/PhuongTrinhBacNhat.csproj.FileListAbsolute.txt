@@ -1,0 +1,12 @@
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\PhuongTrinhBacNhat\bin\Debug\netcoreapp3.1\PhuongTrinhBacNhat.exe
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\PhuongTrinhBacNhat\bin\Debug\netcoreapp3.1\PhuongTrinhBacNhat.deps.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\PhuongTrinhBacNhat\bin\Debug\netcoreapp3.1\PhuongTrinhBacNhat.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\PhuongTrinhBacNhat\bin\Debug\netcoreapp3.1\PhuongTrinhBacNhat.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\PhuongTrinhBacNhat\bin\Debug\netcoreapp3.1\PhuongTrinhBacNhat.dll
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\PhuongTrinhBacNhat\bin\Debug\netcoreapp3.1\PhuongTrinhBacNhat.pdb
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\PhuongTrinhBacNhat\obj\Debug\netcoreapp3.1\PhuongTrinhBacNhat.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\PhuongTrinhBacNhat\obj\Debug\netcoreapp3.1\PhuongTrinhBacNhat.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\PhuongTrinhBacNhat\obj\Debug\netcoreapp3.1\PhuongTrinhBacNhat.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\PhuongTrinhBacNhat\obj\Debug\netcoreapp3.1\PhuongTrinhBacNhat.dll
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\PhuongTrinhBacNhat\obj\Debug\netcoreapp3.1\PhuongTrinhBacNhat.pdb
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\PhuongTrinhBacNhat\obj\Debug\netcoreapp3.1\PhuongTrinhBacNhat.genruntimeconfig.cache

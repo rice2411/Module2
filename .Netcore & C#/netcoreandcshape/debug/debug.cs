@@ -10,7 +10,7 @@ namespace dotnet_debug
             {
                 Console.WriteLine("Index = " + i);
             }
-            Console.ReadKey();
+            
         }
     }
 }
