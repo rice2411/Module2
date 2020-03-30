@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kiemtranamnhuan", "kiemtran
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "menu", "menu\menu.csproj", "{141ECF7B-6117-4C86-8898-7534FA6BDC62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tienlai", "tienlai\tienlai.csproj", "{AD7EF21D-D1E7-475E-8AF1-59EC5E16F5EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{141ECF7B-6117-4C86-8898-7534FA6BDC62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{141ECF7B-6117-4C86-8898-7534FA6BDC62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{141ECF7B-6117-4C86-8898-7534FA6BDC62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD7EF21D-D1E7-475E-8AF1-59EC5E16F5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7EF21D-D1E7-475E-8AF1-59EC5E16F5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7EF21D-D1E7-475E-8AF1-59EC5E16F5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7EF21D-D1E7-475E-8AF1-59EC5E16F5EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
