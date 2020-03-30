@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\kiemtranamnhuan\bin\Debug\netcoreapp3.1\kiemtranamnhuan.exe
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\kiemtranamnhuan\bin\Debug\netcoreapp3.1\kiemtranamnhuan.deps.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\kiemtranamnhuan\bin\Debug\netcoreapp3.1\kiemtranamnhuan.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\kiemtranamnhuan\bin\Debug\netcoreapp3.1\kiemtranamnhuan.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\kiemtranamnhuan\bin\Debug\netcoreapp3.1\kiemtranamnhuan.dll
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\kiemtranamnhuan\bin\Debug\netcoreapp3.1\kiemtranamnhuan.pdb
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.dll
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.pdb
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.genruntimeconfig.cache
