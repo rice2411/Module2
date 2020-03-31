@@ -1,0 +1,12 @@
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\20SNT\bin\Debug\netcoreapp3.1\20SNT.exe
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\20SNT\bin\Debug\netcoreapp3.1\20SNT.deps.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\20SNT\bin\Debug\netcoreapp3.1\20SNT.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\20SNT\bin\Debug\netcoreapp3.1\20SNT.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\20SNT\bin\Debug\netcoreapp3.1\20SNT.dll
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\20SNT\bin\Debug\netcoreapp3.1\20SNT.pdb
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\20SNT\obj\Debug\netcoreapp3.1\20SNT.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\20SNT\obj\Debug\netcoreapp3.1\20SNT.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\20SNT\obj\Debug\netcoreapp3.1\20SNT.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\20SNT\obj\Debug\netcoreapp3.1\20SNT.dll
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\20SNT\obj\Debug\netcoreapp3.1\20SNT.pdb
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\20SNT\obj\Debug\netcoreapp3.1\20SNT.genruntimeconfig.cache

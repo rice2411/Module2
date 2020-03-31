@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HienThiCacLoaiHinh", "HienT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChuyenTien", "ChuyenTien\ChuyenTien.csproj", "{90E9916D-E920-4032-A7D6-DB5BC27558F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20SNT", "20SNT\20SNT.csproj", "{C9118D86-91BF-4A49-AD84-DD1D43A75B2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{90E9916D-E920-4032-A7D6-DB5BC27558F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90E9916D-E920-4032-A7D6-DB5BC27558F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90E9916D-E920-4032-A7D6-DB5BC27558F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9118D86-91BF-4A49-AD84-DD1D43A75B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9118D86-91BF-4A49-AD84-DD1D43A75B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9118D86-91BF-4A49-AD84-DD1D43A75B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9118D86-91BF-4A49-AD84-DD1D43A75B2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -2,7 +2,7 @@
 using System.Text;
 namespace ChuyenTien
 {
-    class Program
+    class Chuyentien
     {
         static void Main(string[] args)
         {
