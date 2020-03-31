@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiaTriLonNhatCuaMang", "Gia
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiaTriNhoNhatCuaMang", "GiaTriNhoNhatCuaMang\GiaTriNhoNhatCuaMang.csproj", "{C7F67C3F-B64A-4641-91FB-7B532FCEBE76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemPhanTuVaoMang", "ThemPhanTuVaoMang\ThemPhanTuVaoMang.csproj", "{F708A867-59A5-4C81-8CEB-A574FB88CAFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{C7F67C3F-B64A-4641-91FB-7B532FCEBE76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7F67C3F-B64A-4641-91FB-7B532FCEBE76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7F67C3F-B64A-4641-91FB-7B532FCEBE76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F708A867-59A5-4C81-8CEB-A574FB88CAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F708A867-59A5-4C81-8CEB-A574FB88CAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F708A867-59A5-4C81-8CEB-A574FB88CAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F708A867-59A5-4C81-8CEB-A574FB88CAFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
