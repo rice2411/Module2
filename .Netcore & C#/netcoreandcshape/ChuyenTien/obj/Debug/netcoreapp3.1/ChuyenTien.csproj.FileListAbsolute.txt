@@ -1,0 +1,12 @@
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChuyenTien\bin\Debug\netcoreapp3.1\ChuyenTien.exe
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChuyenTien\bin\Debug\netcoreapp3.1\ChuyenTien.deps.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChuyenTien\bin\Debug\netcoreapp3.1\ChuyenTien.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChuyenTien\bin\Debug\netcoreapp3.1\ChuyenTien.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChuyenTien\bin\Debug\netcoreapp3.1\ChuyenTien.dll
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChuyenTien\bin\Debug\netcoreapp3.1\ChuyenTien.pdb
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChuyenTien\obj\Debug\netcoreapp3.1\ChuyenTien.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChuyenTien\obj\Debug\netcoreapp3.1\ChuyenTien.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChuyenTien\obj\Debug\netcoreapp3.1\ChuyenTien.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChuyenTien\obj\Debug\netcoreapp3.1\ChuyenTien.dll
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChuyenTien\obj\Debug\netcoreapp3.1\ChuyenTien.pdb
+D:\CodeGym\Module2\Baitap\.Netcore & C#\netcoreandcshape\ChuyenTien\obj\Debug\netcoreapp3.1\ChuyenTien.genruntimeconfig.cache
