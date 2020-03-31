@@ -2,7 +2,7 @@
 
 namespace dotnet_reverse_array
 {
-    class Program
+    class DaoNguocMang
     {
         static void Main(string[] args)
         {
@@ -32,7 +32,7 @@ namespace dotnet_reverse_array
             {
                 Console.WriteLine(array[j] + "\t");
             }
-
+            //Đảo ngược mảng
             for (int j = 0; j < array.Length / 2; j++)
             {
                 int temp = array[j];
