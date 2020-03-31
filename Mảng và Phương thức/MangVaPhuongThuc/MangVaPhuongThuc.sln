@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThaoTacVoiMang", "MangVaPhuongThuc\ThaoTacVoiMang.csproj", "{1AD96B04-7FA5-4E41-B89A-25E44B9F1762}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThaoTacVoiMang", "MangVaPhuongThuc\ThaoTacVoiMang.csproj", "{1AD96B04-7FA5-4E41-B89A-25E44B9F1762}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimGiaTriTrongMang", "TimGiaTriTrongMang\TimGiaTriTrongMang.csproj", "{1494D94C-1778-4D50-80FD-4285B6B3BCDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimGiaTriTrongMang", "TimGiaTriTrongMang\TimGiaTriTrongMang.csproj", "{1494D94C-1778-4D50-80FD-4285B6B3BCDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaoNguocMang", "DaoNguocMang\DaoNguocMang.csproj", "{BD6C393E-1770-4055-8807-4C1CDD4FC53B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1494D94C-1778-4D50-80FD-4285B6B3BCDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1494D94C-1778-4D50-80FD-4285B6B3BCDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1494D94C-1778-4D50-80FD-4285B6B3BCDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD6C393E-1770-4055-8807-4C1CDD4FC53B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD6C393E-1770-4055-8807-4C1CDD4FC53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD6C393E-1770-4055-8807-4C1CDD4FC53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD6C393E-1770-4055-8807-4C1CDD4FC53B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
