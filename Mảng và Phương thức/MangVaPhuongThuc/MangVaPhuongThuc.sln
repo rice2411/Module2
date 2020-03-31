@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChuyenDoiNhietDo", "ChuyenD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiaTriLonNhatCuaMang", "GiaTriLonNhatCuaMang\GiaTriLonNhatCuaMang.csproj", "{C4BC7937-1BB9-42D8-B070-EB9FC067B007}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiaTriNhoNhatCuaMang", "GiaTriNhoNhatCuaMang\GiaTriNhoNhatCuaMang.csproj", "{C7F67C3F-B64A-4641-91FB-7B532FCEBE76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C4BC7937-1BB9-42D8-B070-EB9FC067B007}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4BC7937-1BB9-42D8-B070-EB9FC067B007}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4BC7937-1BB9-42D8-B070-EB9FC067B007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7F67C3F-B64A-4641-91FB-7B532FCEBE76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7F67C3F-B64A-4641-91FB-7B532FCEBE76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7F67C3F-B64A-4641-91FB-7B532FCEBE76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7F67C3F-B64A-4641-91FB-7B532FCEBE76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
