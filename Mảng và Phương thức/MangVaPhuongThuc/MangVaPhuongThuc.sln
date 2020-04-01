@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinhTongMotCot", "TinhTongM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemSoKiTu", "DemSoKiTu\DemSoKiTu.csproj", "{DC460C09-C37F-4647-8EEC-08D89E20DCF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TongCacPhanTuCheo", "TongCacPhanTuCheo\TongCacPhanTuCheo.csproj", "{A30DAAE5-3188-4D2C-9C27-B9168BEF7AB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{DC460C09-C37F-4647-8EEC-08D89E20DCF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC460C09-C37F-4647-8EEC-08D89E20DCF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC460C09-C37F-4647-8EEC-08D89E20DCF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A30DAAE5-3188-4D2C-9C27-B9168BEF7AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30DAAE5-3188-4D2C-9C27-B9168BEF7AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30DAAE5-3188-4D2C-9C27-B9168BEF7AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30DAAE5-3188-4D2C-9C27-B9168BEF7AB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
