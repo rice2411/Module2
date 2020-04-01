@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThemPhanTuVaoMang", "ThemPh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XoaPhanTuKhoiMang", "XoaPhanTuKhoiMang\XoaPhanTuKhoiMang.csproj", "{FE3FB053-E2DE-4673-B5A0-91837B8D8D6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhanTuLonNhatMang2Chieu", "PhanTuLonNhatMang2Chieu\PhanTuLonNhatMang2Chieu.csproj", "{52EBC13B-F3A7-47CB-BBAB-00D3D821CB42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhanTuLonNhatMang2Chieu", "PhanTuLonNhatMang2Chieu\PhanTuLonNhatMang2Chieu.csproj", "{52EBC13B-F3A7-47CB-BBAB-00D3D821CB42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MENU++", "MENU++\MENU++.csproj", "{18DBD828-8696-4E75-A9A0-B8C45B1EB6E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MENU++", "MENU++\MENU++.csproj", "{18DBD828-8696-4E75-A9A0-B8C45B1EB6E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gop2Mang", "Gop2Mang\Gop2Mang.csproj", "{84371FBE-5C27-43F7-8A45-DD4FD40AF2A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{18DBD828-8696-4E75-A9A0-B8C45B1EB6E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18DBD828-8696-4E75-A9A0-B8C45B1EB6E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18DBD828-8696-4E75-A9A0-B8C45B1EB6E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84371FBE-5C27-43F7-8A45-DD4FD40AF2A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84371FBE-5C27-43F7-8A45-DD4FD40AF2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84371FBE-5C27-43F7-8A45-DD4FD40AF2A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84371FBE-5C27-43F7-8A45-DD4FD40AF2A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

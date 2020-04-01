@@ -10,3 +10,4 @@ D:\CodeGym\Module2\Baitap\Mảng và Phương thức\MangVaPhuongThuc\MENU++\obj
 D:\CodeGym\Module2\Baitap\Mảng và Phương thức\MangVaPhuongThuc\MENU++\obj\Debug\netcoreapp3.1\MENU++.dll
 D:\CodeGym\Module2\Baitap\Mảng và Phương thức\MangVaPhuongThuc\MENU++\obj\Debug\netcoreapp3.1\MENU++.pdb
 D:\CodeGym\Module2\Baitap\Mảng và Phương thức\MangVaPhuongThuc\MENU++\obj\Debug\netcoreapp3.1\MENU++.genruntimeconfig.cache
+D:\CodeGym\Module2\Baitap\Mảng và Phương thức\MangVaPhuongThuc\MENU++\obj\Debug\netcoreapp3.1\MENU++.csprojAssemblyReference.cache
