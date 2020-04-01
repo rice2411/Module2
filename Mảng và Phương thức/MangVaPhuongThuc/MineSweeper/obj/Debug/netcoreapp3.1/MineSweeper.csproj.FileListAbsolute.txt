@@ -10,3 +10,4 @@ D:\CodeGym\Module2\Baitap\Mảng và Phương thức\MangVaPhuongThuc\MineSweepe
 D:\CodeGym\Module2\Baitap\Mảng và Phương thức\MangVaPhuongThuc\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.dll
 D:\CodeGym\Module2\Baitap\Mảng và Phương thức\MangVaPhuongThuc\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.pdb
 D:\CodeGym\Module2\Baitap\Mảng và Phương thức\MangVaPhuongThuc\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.genruntimeconfig.cache
+D:\CodeGym\Module2\Baitap\Mảng và Phương thức\MangVaPhuongThuc\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.csprojAssemblyReference.cache

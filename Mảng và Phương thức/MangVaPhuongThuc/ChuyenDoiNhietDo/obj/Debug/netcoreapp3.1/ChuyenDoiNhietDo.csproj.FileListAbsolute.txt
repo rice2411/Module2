@@ -10,3 +10,4 @@ D:\CodeGym\Module2\Baitap\Mảng và Phương thức\MangVaPhuongThuc\ChuyenDoiN
 D:\CodeGym\Module2\Baitap\Mảng và Phương thức\MangVaPhuongThuc\ChuyenDoiNhietDo\obj\Debug\netcoreapp3.1\ChuyenDoiNhietDo.dll
 D:\CodeGym\Module2\Baitap\Mảng và Phương thức\MangVaPhuongThuc\ChuyenDoiNhietDo\obj\Debug\netcoreapp3.1\ChuyenDoiNhietDo.pdb
 D:\CodeGym\Module2\Baitap\Mảng và Phương thức\MangVaPhuongThuc\ChuyenDoiNhietDo\obj\Debug\netcoreapp3.1\ChuyenDoiNhietDo.genruntimeconfig.cache
+D:\CodeGym\Module2\Baitap\Mảng và Phương thức\MangVaPhuongThuc\ChuyenDoiNhietDo\obj\Debug\netcoreapp3.1\ChuyenDoiNhietDo.csprojAssemblyReference.cache

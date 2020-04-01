@@ -10,3 +10,4 @@ D:\CodeGym\Module2\Baitap\Mảng và Phương thức\MangVaPhuongThuc\ThemPhanTu
 D:\CodeGym\Module2\Baitap\Mảng và Phương thức\MangVaPhuongThuc\ThemPhanTuVaoMang\obj\Debug\netcoreapp3.1\ThemPhanTuVaoMang.dll
 D:\CodeGym\Module2\Baitap\Mảng và Phương thức\MangVaPhuongThuc\ThemPhanTuVaoMang\obj\Debug\netcoreapp3.1\ThemPhanTuVaoMang.pdb
 D:\CodeGym\Module2\Baitap\Mảng và Phương thức\MangVaPhuongThuc\ThemPhanTuVaoMang\obj\Debug\netcoreapp3.1\ThemPhanTuVaoMang.genruntimeconfig.cache
+D:\CodeGym\Module2\Baitap\Mảng và Phương thức\MangVaPhuongThuc\ThemPhanTuVaoMang\obj\Debug\netcoreapp3.1\ThemPhanTuVaoMang.csprojAssemblyReference.cache
