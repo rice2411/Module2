@@ -13,13 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MineSweeper", "MineSweeper\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SinhVienThiDo", "SinhVienThiDo\SinhVienThiDo.csproj", "{FE9E7829-72E7-41D8-8D0C-C0853803C5AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChuyenDoiNhietDo", "ChuyenDoiNhietDo\ChuyenDoiNhietDo.csproj", "{49BC4868-E2F8-421D-B22E-EBB98F78B734}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChuyenDoiNhietDo", "ChuyenDoiNhietDo\ChuyenDoiNhietDo.csproj", "{49BC4868-E2F8-421D-B22E-EBB98F78B734}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiaTriLonNhatCuaMang", "GiaTriLonNhatCuaMang\GiaTriLonNhatCuaMang.csproj", "{C4BC7937-1BB9-42D8-B070-EB9FC067B007}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GiaTriLonNhatCuaMang", "GiaTriLonNhatCuaMang\GiaTriLonNhatCuaMang.csproj", "{C4BC7937-1BB9-42D8-B070-EB9FC067B007}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiaTriNhoNhatCuaMang", "GiaTriNhoNhatCuaMang\GiaTriNhoNhatCuaMang.csproj", "{C7F67C3F-B64A-4641-91FB-7B532FCEBE76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GiaTriNhoNhatCuaMang", "GiaTriNhoNhatCuaMang\GiaTriNhoNhatCuaMang.csproj", "{C7F67C3F-B64A-4641-91FB-7B532FCEBE76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemPhanTuVaoMang", "ThemPhanTuVaoMang\ThemPhanTuVaoMang.csproj", "{F708A867-59A5-4C81-8CEB-A574FB88CAFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThemPhanTuVaoMang", "ThemPhanTuVaoMang\ThemPhanTuVaoMang.csproj", "{F708A867-59A5-4C81-8CEB-A574FB88CAFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XoaPhanTuKhoiMang", "XoaPhanTuKhoiMang\XoaPhanTuKhoiMang.csproj", "{FE3FB053-E2DE-4673-B5A0-91837B8D8D6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{F708A867-59A5-4C81-8CEB-A574FB88CAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F708A867-59A5-4C81-8CEB-A574FB88CAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F708A867-59A5-4C81-8CEB-A574FB88CAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE3FB053-E2DE-4673-B5A0-91837B8D8D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3FB053-E2DE-4673-B5A0-91837B8D8D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3FB053-E2DE-4673-B5A0-91837B8D8D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3FB053-E2DE-4673-B5A0-91837B8D8D6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
