@@ -2,7 +2,7 @@
 using System.Text;
 namespace Gop2Mang
 {
-    class Program
+    class Gop2Mang
     {
         static void Main(string[] args)
         {

@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MENU++", "MENU++\MENU++.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gop2Mang", "Gop2Mang\Gop2Mang.csproj", "{84371FBE-5C27-43F7-8A45-DD4FD40AF2A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinhTongMotCot", "TinhTongMotCoi\TinhTongMotCot.csproj", "{A6E07085-694B-4B36-85E6-BB36D4550D0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{84371FBE-5C27-43F7-8A45-DD4FD40AF2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84371FBE-5C27-43F7-8A45-DD4FD40AF2A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84371FBE-5C27-43F7-8A45-DD4FD40AF2A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E07085-694B-4B36-85E6-BB36D4550D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E07085-694B-4B36-85E6-BB36D4550D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E07085-694B-4B36-85E6-BB36D4550D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E07085-694B-4B36-85E6-BB36D4550D0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
