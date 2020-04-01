@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.exe
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.deps.json
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.dll
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.pdb
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.dll
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.pdb
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.genruntimeconfig.cache
