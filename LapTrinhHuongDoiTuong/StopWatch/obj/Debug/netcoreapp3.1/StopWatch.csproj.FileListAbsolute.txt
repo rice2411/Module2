@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.exe
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.deps.json
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.dll
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.pdb
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.dll
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.pdb
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.genruntimeconfig.cache
