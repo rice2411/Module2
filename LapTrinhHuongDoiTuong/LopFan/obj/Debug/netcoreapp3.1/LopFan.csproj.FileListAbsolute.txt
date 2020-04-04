@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\LopFan\bin\Debug\netcoreapp3.1\LopFan.exe
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\LopFan\bin\Debug\netcoreapp3.1\LopFan.deps.json
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\LopFan\bin\Debug\netcoreapp3.1\LopFan.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\LopFan\bin\Debug\netcoreapp3.1\LopFan.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\LopFan\bin\Debug\netcoreapp3.1\LopFan.dll
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\LopFan\bin\Debug\netcoreapp3.1\LopFan.pdb
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\LopFan\obj\Debug\netcoreapp3.1\LopFan.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\LopFan\obj\Debug\netcoreapp3.1\LopFan.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\LopFan\obj\Debug\netcoreapp3.1\LopFan.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\LopFan\obj\Debug\netcoreapp3.1\LopFan.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\LopFan\obj\Debug\netcoreapp3.1\LopFan.dll
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\LopFan\obj\Debug\netcoreapp3.1\LopFan.pdb
+D:\CodeGym\Module2\Baitap\LapTrinhHuongDoiTuong\LopFan\obj\Debug\netcoreapp3.1\LopFan.genruntimeconfig.cache
