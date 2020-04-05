@@ -1,0 +1,12 @@
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\ptb2\bin\Debug\netcoreapp3.1\ptb2.exe
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\ptb2\bin\Debug\netcoreapp3.1\ptb2.deps.json
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\ptb2\bin\Debug\netcoreapp3.1\ptb2.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\ptb2\bin\Debug\netcoreapp3.1\ptb2.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\ptb2\bin\Debug\netcoreapp3.1\ptb2.dll
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\ptb2\bin\Debug\netcoreapp3.1\ptb2.pdb
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\ptb2\obj\Debug\netcoreapp3.1\ptb2.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\ptb2\obj\Debug\netcoreapp3.1\ptb2.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\ptb2\obj\Debug\netcoreapp3.1\ptb2.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\ptb2\obj\Debug\netcoreapp3.1\ptb2.dll
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\ptb2\obj\Debug\netcoreapp3.1\ptb2.pdb
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\ptb2\obj\Debug\netcoreapp3.1\ptb2.genruntimeconfig.cache
