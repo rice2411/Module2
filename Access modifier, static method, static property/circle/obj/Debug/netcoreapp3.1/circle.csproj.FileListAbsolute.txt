@@ -1,0 +1,12 @@
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\circle\bin\Debug\netcoreapp3.1\circle.exe
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\circle\bin\Debug\netcoreapp3.1\circle.deps.json
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\circle\bin\Debug\netcoreapp3.1\circle.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\circle\bin\Debug\netcoreapp3.1\circle.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\circle\bin\Debug\netcoreapp3.1\circle.dll
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\circle\bin\Debug\netcoreapp3.1\circle.pdb
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\circle\obj\Debug\netcoreapp3.1\circle.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\circle\obj\Debug\netcoreapp3.1\circle.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\circle\obj\Debug\netcoreapp3.1\circle.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\circle\obj\Debug\netcoreapp3.1\circle.dll
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\circle\obj\Debug\netcoreapp3.1\circle.pdb
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\circle\obj\Debug\netcoreapp3.1\circle.genruntimeconfig.cache
