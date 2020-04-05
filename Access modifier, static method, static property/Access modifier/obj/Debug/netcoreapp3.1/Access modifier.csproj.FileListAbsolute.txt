@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\Access modifier\bin\Debug\netcoreapp3.1\Access modifier.exe
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\Access modifier\bin\Debug\netcoreapp3.1\Access modifier.deps.json
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\Access modifier\bin\Debug\netcoreapp3.1\Access modifier.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\Access modifier\bin\Debug\netcoreapp3.1\Access modifier.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\Access modifier\bin\Debug\netcoreapp3.1\Access modifier.dll
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\Access modifier\bin\Debug\netcoreapp3.1\Access modifier.pdb
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\Access modifier\obj\Debug\netcoreapp3.1\Access modifier.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\Access modifier\obj\Debug\netcoreapp3.1\Access modifier.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\Access modifier\obj\Debug\netcoreapp3.1\Access modifier.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\Access modifier\obj\Debug\netcoreapp3.1\Access modifier.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\Access modifier\obj\Debug\netcoreapp3.1\Access modifier.dll
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\Access modifier\obj\Debug\netcoreapp3.1\Access modifier.pdb
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\Access modifier\obj\Debug\netcoreapp3.1\Access modifier.genruntimeconfig.cache
