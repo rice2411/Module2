@@ -1,0 +1,12 @@
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\classanimal\bin\Debug\netcoreapp3.1\classanimal.exe
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\classanimal\bin\Debug\netcoreapp3.1\classanimal.deps.json
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\classanimal\bin\Debug\netcoreapp3.1\classanimal.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\classanimal\bin\Debug\netcoreapp3.1\classanimal.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\classanimal\bin\Debug\netcoreapp3.1\classanimal.dll
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\classanimal\bin\Debug\netcoreapp3.1\classanimal.pdb
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\classanimal\obj\Debug\netcoreapp3.1\classanimal.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\classanimal\obj\Debug\netcoreapp3.1\classanimal.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\classanimal\obj\Debug\netcoreapp3.1\classanimal.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\classanimal\obj\Debug\netcoreapp3.1\classanimal.dll
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\classanimal\obj\Debug\netcoreapp3.1\classanimal.pdb
+D:\CodeGym\Module2\Baitap\Access modifier, static method, static property\classanimal\obj\Debug\netcoreapp3.1\classanimal.genruntimeconfig.cache
