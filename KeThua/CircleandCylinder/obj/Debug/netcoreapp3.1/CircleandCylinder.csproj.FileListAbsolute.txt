@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\KeThua\CircleandCylinder\obj\Debug\netcoreapp3.1\CircleandCylinder.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\KeThua\CircleandCylinder\obj\Debug\netcoreapp3.1\CircleandCylinder.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\KeThua\CircleandCylinder\obj\Debug\netcoreapp3.1\CircleandCylinder.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\KeThua\CircleandCylinder\obj\Debug\netcoreapp3.1\CircleandCylinder.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\KeThua\CircleandCylinder\bin\Debug\netcoreapp3.1\CircleandCylinder.exe
+D:\CodeGym\Module2\Baitap\KeThua\CircleandCylinder\bin\Debug\netcoreapp3.1\CircleandCylinder.deps.json
+D:\CodeGym\Module2\Baitap\KeThua\CircleandCylinder\bin\Debug\netcoreapp3.1\CircleandCylinder.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\KeThua\CircleandCylinder\bin\Debug\netcoreapp3.1\CircleandCylinder.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\KeThua\CircleandCylinder\bin\Debug\netcoreapp3.1\CircleandCylinder.dll
+D:\CodeGym\Module2\Baitap\KeThua\CircleandCylinder\bin\Debug\netcoreapp3.1\CircleandCylinder.pdb
+D:\CodeGym\Module2\Baitap\KeThua\CircleandCylinder\obj\Debug\netcoreapp3.1\CircleandCylinder.dll
+D:\CodeGym\Module2\Baitap\KeThua\CircleandCylinder\obj\Debug\netcoreapp3.1\CircleandCylinder.pdb
+D:\CodeGym\Module2\Baitap\KeThua\CircleandCylinder\obj\Debug\netcoreapp3.1\CircleandCylinder.genruntimeconfig.cache

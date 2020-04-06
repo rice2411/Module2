@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoiTuongHinhHoc", "DoiTuongHinhHoc\DoiTuongHinhHoc.csproj", "{19421F73-F94F-46E9-8C8E-852644649C1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleandCylinder", "CircleandCylinder\CircleandCylinder.csproj", "{CFA35F6A-1553-4D80-9706-BC93B58BDA49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{19421F73-F94F-46E9-8C8E-852644649C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19421F73-F94F-46E9-8C8E-852644649C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19421F73-F94F-46E9-8C8E-852644649C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFA35F6A-1553-4D80-9706-BC93B58BDA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA35F6A-1553-4D80-9706-BC93B58BDA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA35F6A-1553-4D80-9706-BC93B58BDA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA35F6A-1553-4D80-9706-BC93B58BDA49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
