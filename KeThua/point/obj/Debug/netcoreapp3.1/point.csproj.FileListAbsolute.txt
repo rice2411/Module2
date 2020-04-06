@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\KeThua\point\bin\Debug\netcoreapp3.1\point.exe
+D:\CodeGym\Module2\Baitap\KeThua\point\bin\Debug\netcoreapp3.1\point.deps.json
+D:\CodeGym\Module2\Baitap\KeThua\point\bin\Debug\netcoreapp3.1\point.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\KeThua\point\bin\Debug\netcoreapp3.1\point.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\KeThua\point\bin\Debug\netcoreapp3.1\point.dll
+D:\CodeGym\Module2\Baitap\KeThua\point\bin\Debug\netcoreapp3.1\point.pdb
+D:\CodeGym\Module2\Baitap\KeThua\point\obj\Debug\netcoreapp3.1\point.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\KeThua\point\obj\Debug\netcoreapp3.1\point.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\KeThua\point\obj\Debug\netcoreapp3.1\point.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\KeThua\point\obj\Debug\netcoreapp3.1\point.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\KeThua\point\obj\Debug\netcoreapp3.1\point.dll
+D:\CodeGym\Module2\Baitap\KeThua\point\obj\Debug\netcoreapp3.1\point.pdb
+D:\CodeGym\Module2\Baitap\KeThua\point\obj\Debug\netcoreapp3.1\point.genruntimeconfig.cache
