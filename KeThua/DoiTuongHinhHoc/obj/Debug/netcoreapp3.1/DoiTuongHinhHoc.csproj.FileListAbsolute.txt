@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\KeThua\DoiTuongHinhHoc\bin\Debug\netcoreapp3.1\DoiTuongHinhHoc.exe
+D:\CodeGym\Module2\Baitap\KeThua\DoiTuongHinhHoc\bin\Debug\netcoreapp3.1\DoiTuongHinhHoc.deps.json
+D:\CodeGym\Module2\Baitap\KeThua\DoiTuongHinhHoc\bin\Debug\netcoreapp3.1\DoiTuongHinhHoc.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\KeThua\DoiTuongHinhHoc\bin\Debug\netcoreapp3.1\DoiTuongHinhHoc.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\KeThua\DoiTuongHinhHoc\bin\Debug\netcoreapp3.1\DoiTuongHinhHoc.dll
+D:\CodeGym\Module2\Baitap\KeThua\DoiTuongHinhHoc\bin\Debug\netcoreapp3.1\DoiTuongHinhHoc.pdb
+D:\CodeGym\Module2\Baitap\KeThua\DoiTuongHinhHoc\obj\Debug\netcoreapp3.1\DoiTuongHinhHoc.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\KeThua\DoiTuongHinhHoc\obj\Debug\netcoreapp3.1\DoiTuongHinhHoc.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\KeThua\DoiTuongHinhHoc\obj\Debug\netcoreapp3.1\DoiTuongHinhHoc.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\KeThua\DoiTuongHinhHoc\obj\Debug\netcoreapp3.1\DoiTuongHinhHoc.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\KeThua\DoiTuongHinhHoc\obj\Debug\netcoreapp3.1\DoiTuongHinhHoc.dll
+D:\CodeGym\Module2\Baitap\KeThua\DoiTuongHinhHoc\obj\Debug\netcoreapp3.1\DoiTuongHinhHoc.pdb
+D:\CodeGym\Module2\Baitap\KeThua\DoiTuongHinhHoc\obj\Debug\netcoreapp3.1\DoiTuongHinhHoc.genruntimeconfig.cache
