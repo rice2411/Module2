@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\KeThua\MoveablePoint\bin\Debug\netcoreapp3.1\MoveablePoint.exe
+D:\CodeGym\Module2\Baitap\KeThua\MoveablePoint\bin\Debug\netcoreapp3.1\MoveablePoint.deps.json
+D:\CodeGym\Module2\Baitap\KeThua\MoveablePoint\bin\Debug\netcoreapp3.1\MoveablePoint.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\KeThua\MoveablePoint\bin\Debug\netcoreapp3.1\MoveablePoint.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\KeThua\MoveablePoint\bin\Debug\netcoreapp3.1\MoveablePoint.dll
+D:\CodeGym\Module2\Baitap\KeThua\MoveablePoint\bin\Debug\netcoreapp3.1\MoveablePoint.pdb
+D:\CodeGym\Module2\Baitap\KeThua\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\KeThua\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\KeThua\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\KeThua\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\KeThua\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.dll
+D:\CodeGym\Module2\Baitap\KeThua\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.pdb
+D:\CodeGym\Module2\Baitap\KeThua\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.genruntimeconfig.cache

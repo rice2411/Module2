@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleandCylinder", "Circle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "point", "point\point.csproj", "{335D19E8-5333-438B-8250-5AB4EA9520FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveablePoint", "MoveablePoint\MoveablePoint.csproj", "{7ADE8825-D35F-4353-8D98-C3F40E07637C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{335D19E8-5333-438B-8250-5AB4EA9520FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{335D19E8-5333-438B-8250-5AB4EA9520FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{335D19E8-5333-438B-8250-5AB4EA9520FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ADE8825-D35F-4353-8D98-C3F40E07637C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADE8825-D35F-4353-8D98-C3F40E07637C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADE8825-D35F-4353-8D98-C3F40E07637C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADE8825-D35F-4353-8D98-C3F40E07637C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
