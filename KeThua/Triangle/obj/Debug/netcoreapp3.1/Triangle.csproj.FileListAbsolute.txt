@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\KeThua\Triangle\obj\Debug\netcoreapp3.1\Triangle.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\KeThua\Triangle\obj\Debug\netcoreapp3.1\Triangle.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\KeThua\Triangle\obj\Debug\netcoreapp3.1\Triangle.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\KeThua\Triangle\bin\Debug\netcoreapp3.1\Triangle.exe
+D:\CodeGym\Module2\Baitap\KeThua\Triangle\bin\Debug\netcoreapp3.1\Triangle.deps.json
+D:\CodeGym\Module2\Baitap\KeThua\Triangle\bin\Debug\netcoreapp3.1\Triangle.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\KeThua\Triangle\bin\Debug\netcoreapp3.1\Triangle.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\KeThua\Triangle\bin\Debug\netcoreapp3.1\Triangle.dll
+D:\CodeGym\Module2\Baitap\KeThua\Triangle\bin\Debug\netcoreapp3.1\Triangle.pdb
+D:\CodeGym\Module2\Baitap\KeThua\Triangle\obj\Debug\netcoreapp3.1\Triangle.dll
+D:\CodeGym\Module2\Baitap\KeThua\Triangle\obj\Debug\netcoreapp3.1\Triangle.pdb
+D:\CodeGym\Module2\Baitap\KeThua\Triangle\obj\Debug\netcoreapp3.1\Triangle.genruntimeconfig.cache
+D:\CodeGym\Module2\Baitap\KeThua\Triangle\obj\Debug\netcoreapp3.1\Triangle.csprojAssemblyReference.cache
