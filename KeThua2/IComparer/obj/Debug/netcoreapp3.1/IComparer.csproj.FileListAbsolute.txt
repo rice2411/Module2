@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\KeThua2\IComparer\bin\Debug\netcoreapp3.1\IComparer.exe
+D:\CodeGym\Module2\Baitap\KeThua2\IComparer\bin\Debug\netcoreapp3.1\IComparer.deps.json
+D:\CodeGym\Module2\Baitap\KeThua2\IComparer\bin\Debug\netcoreapp3.1\IComparer.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\KeThua2\IComparer\bin\Debug\netcoreapp3.1\IComparer.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\KeThua2\IComparer\bin\Debug\netcoreapp3.1\IComparer.dll
+D:\CodeGym\Module2\Baitap\KeThua2\IComparer\bin\Debug\netcoreapp3.1\IComparer.pdb
+D:\CodeGym\Module2\Baitap\KeThua2\IComparer\obj\Debug\netcoreapp3.1\IComparer.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\KeThua2\IComparer\obj\Debug\netcoreapp3.1\IComparer.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\KeThua2\IComparer\obj\Debug\netcoreapp3.1\IComparer.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\KeThua2\IComparer\obj\Debug\netcoreapp3.1\IComparer.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\KeThua2\IComparer\obj\Debug\netcoreapp3.1\IComparer.dll
+D:\CodeGym\Module2\Baitap\KeThua2\IComparer\obj\Debug\netcoreapp3.1\IComparer.pdb
+D:\CodeGym\Module2\Baitap\KeThua2\IComparer\obj\Debug\netcoreapp3.1\IComparer.genruntimeconfig.cache
