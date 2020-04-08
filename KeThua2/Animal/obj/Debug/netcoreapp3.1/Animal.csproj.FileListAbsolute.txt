@@ -1,0 +1,12 @@
+D:\CodeGym\Module2\Baitap\KeThua2\Animal\bin\Debug\netcoreapp3.1\Animal.exe
+D:\CodeGym\Module2\Baitap\KeThua2\Animal\bin\Debug\netcoreapp3.1\Animal.deps.json
+D:\CodeGym\Module2\Baitap\KeThua2\Animal\bin\Debug\netcoreapp3.1\Animal.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\KeThua2\Animal\bin\Debug\netcoreapp3.1\Animal.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\KeThua2\Animal\bin\Debug\netcoreapp3.1\Animal.dll
+D:\CodeGym\Module2\Baitap\KeThua2\Animal\bin\Debug\netcoreapp3.1\Animal.pdb
+D:\CodeGym\Module2\Baitap\KeThua2\Animal\obj\Debug\netcoreapp3.1\Animal.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\KeThua2\Animal\obj\Debug\netcoreapp3.1\Animal.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\KeThua2\Animal\obj\Debug\netcoreapp3.1\Animal.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\KeThua2\Animal\obj\Debug\netcoreapp3.1\Animal.dll
+D:\CodeGym\Module2\Baitap\KeThua2\Animal\obj\Debug\netcoreapp3.1\Animal.pdb
+D:\CodeGym\Module2\Baitap\KeThua2\Animal\obj\Debug\netcoreapp3.1\Animal.genruntimeconfig.cache
