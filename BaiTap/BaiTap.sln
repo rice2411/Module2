@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap1", "BaiTap\BaiTap1.csproj", "{F5AB2319-C74B-41DD-A1E5-23478573AE13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap2", "BaiTap2\BaiTap2.csproj", "{3F5384AC-3872-480A-86E3-6A4789FABC12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap3", "BaiTap3\BaiTap3.csproj", "{9F70E1F8-BDE1-449D-9FE4-D7DEF3D166B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5AB2319-C74B-41DD-A1E5-23478573AE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5AB2319-C74B-41DD-A1E5-23478573AE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5AB2319-C74B-41DD-A1E5-23478573AE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5AB2319-C74B-41DD-A1E5-23478573AE13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F5384AC-3872-480A-86E3-6A4789FABC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5384AC-3872-480A-86E3-6A4789FABC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5384AC-3872-480A-86E3-6A4789FABC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5384AC-3872-480A-86E3-6A4789FABC12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F70E1F8-BDE1-449D-9FE4-D7DEF3D166B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F70E1F8-BDE1-449D-9FE4-D7DEF3D166B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F70E1F8-BDE1-449D-9FE4-D7DEF3D166B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F70E1F8-BDE1-449D-9FE4-D7DEF3D166B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94FA64BB-E595-4626-9F58-520E2F8FD2E8}
+	EndGlobalSection
+EndGlobal
