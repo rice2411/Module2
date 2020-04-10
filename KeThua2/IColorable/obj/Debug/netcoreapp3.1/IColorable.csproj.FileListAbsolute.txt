@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\KeThua2\IColorable\bin\Debug\netcoreapp3.1\IColorable.exe
+D:\CodeGym\Module2\Baitap\KeThua2\IColorable\bin\Debug\netcoreapp3.1\IColorable.deps.json
+D:\CodeGym\Module2\Baitap\KeThua2\IColorable\bin\Debug\netcoreapp3.1\IColorable.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\KeThua2\IColorable\bin\Debug\netcoreapp3.1\IColorable.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\KeThua2\IColorable\bin\Debug\netcoreapp3.1\IColorable.dll
+D:\CodeGym\Module2\Baitap\KeThua2\IColorable\bin\Debug\netcoreapp3.1\IColorable.pdb
+D:\CodeGym\Module2\Baitap\KeThua2\IColorable\obj\Debug\netcoreapp3.1\IColorable.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\KeThua2\IColorable\obj\Debug\netcoreapp3.1\IColorable.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\KeThua2\IColorable\obj\Debug\netcoreapp3.1\IColorable.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\KeThua2\IColorable\obj\Debug\netcoreapp3.1\IColorable.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\KeThua2\IColorable\obj\Debug\netcoreapp3.1\IColorable.dll
+D:\CodeGym\Module2\Baitap\KeThua2\IColorable\obj\Debug\netcoreapp3.1\IColorable.pdb
+D:\CodeGym\Module2\Baitap\KeThua2\IColorable\obj\Debug\netcoreapp3.1\IColorable.genruntimeconfig.cache

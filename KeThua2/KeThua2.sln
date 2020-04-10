@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animal", "Animal\Animal.csproj", "{93CC543E-BD54-46C9-9674-0EB957B0480F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparer", "IComparer\IComparer.csproj", "{611289CE-161B-4564-863D-699AE9785CA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IComparer", "IComparer\IComparer.csproj", "{611289CE-161B-4564-863D-699AE9785CA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IColorable", "IColorable\IColorable.csproj", "{0CF619FA-07B2-4AD6-9131-EFEA0956D1A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{611289CE-161B-4564-863D-699AE9785CA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{611289CE-161B-4564-863D-699AE9785CA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{611289CE-161B-4564-863D-699AE9785CA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CF619FA-07B2-4AD6-9131-EFEA0956D1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF619FA-07B2-4AD6-9131-EFEA0956D1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF619FA-07B2-4AD6-9131-EFEA0956D1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF619FA-07B2-4AD6-9131-EFEA0956D1A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

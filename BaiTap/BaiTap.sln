@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap1", "BaiTap\BaiTap1.csproj", "{F5AB2319-C74B-41DD-A1E5-23478573AE13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTap1", "BaiTap\BaiTap1.csproj", "{F5AB2319-C74B-41DD-A1E5-23478573AE13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap2", "BaiTap2\BaiTap2.csproj", "{3F5384AC-3872-480A-86E3-6A4789FABC12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTap2", "BaiTap2\BaiTap2.csproj", "{3F5384AC-3872-480A-86E3-6A4789FABC12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap3", "BaiTap3\BaiTap3.csproj", "{9F70E1F8-BDE1-449D-9FE4-D7DEF3D166B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTap3", "BaiTap3\BaiTap3.csproj", "{9F70E1F8-BDE1-449D-9FE4-D7DEF3D166B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapOOP", "BaiTapOOP\BaiTapOOP.csproj", "{B3298524-1FC0-41C5-8E33-8442669F13C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{9F70E1F8-BDE1-449D-9FE4-D7DEF3D166B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F70E1F8-BDE1-449D-9FE4-D7DEF3D166B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F70E1F8-BDE1-449D-9FE4-D7DEF3D166B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3298524-1FC0-41C5-8E33-8442669F13C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3298524-1FC0-41C5-8E33-8442669F13C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3298524-1FC0-41C5-8E33-8442669F13C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3298524-1FC0-41C5-8E33-8442669F13C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
