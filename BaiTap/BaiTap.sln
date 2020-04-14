@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTap2", "BaiTap2\BaiTap2.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTap3", "BaiTap3\BaiTap3.csproj", "{9F70E1F8-BDE1-449D-9FE4-D7DEF3D166B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapOOP", "BaiTapOOP\BaiTapOOP.csproj", "{B3298524-1FC0-41C5-8E33-8442669F13C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTapOOP", "BaiTapOOP\BaiTapOOP.csproj", "{B3298524-1FC0-41C5-8E33-8442669F13C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapOOP2", "BaiTapOOP2\BaiTapOOP2.csproj", "{C858E6D3-7AEC-4EC8-B4F2-E373C3A749EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B3298524-1FC0-41C5-8E33-8442669F13C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3298524-1FC0-41C5-8E33-8442669F13C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3298524-1FC0-41C5-8E33-8442669F13C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C858E6D3-7AEC-4EC8-B4F2-E373C3A749EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C858E6D3-7AEC-4EC8-B4F2-E373C3A749EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C858E6D3-7AEC-4EC8-B4F2-E373C3A749EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C858E6D3-7AEC-4EC8-B4F2-E373C3A749EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+D:\CodeGym\Module2\Baitap\Refactoring\TachHang\bin\Debug\netcoreapp3.1\TachHang.exe
+D:\CodeGym\Module2\Baitap\Refactoring\TachHang\bin\Debug\netcoreapp3.1\TachHang.deps.json
+D:\CodeGym\Module2\Baitap\Refactoring\TachHang\bin\Debug\netcoreapp3.1\TachHang.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\Refactoring\TachHang\bin\Debug\netcoreapp3.1\TachHang.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\Refactoring\TachHang\bin\Debug\netcoreapp3.1\TachHang.dll
+D:\CodeGym\Module2\Baitap\Refactoring\TachHang\bin\Debug\netcoreapp3.1\TachHang.pdb
+D:\CodeGym\Module2\Baitap\Refactoring\TachHang\obj\Debug\netcoreapp3.1\TachHang.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\Refactoring\TachHang\obj\Debug\netcoreapp3.1\TachHang.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\Refactoring\TachHang\obj\Debug\netcoreapp3.1\TachHang.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\Refactoring\TachHang\obj\Debug\netcoreapp3.1\TachHang.dll
+D:\CodeGym\Module2\Baitap\Refactoring\TachHang\obj\Debug\netcoreapp3.1\TachHang.pdb
+D:\CodeGym\Module2\Baitap\Refactoring\TachHang\obj\Debug\netcoreapp3.1\TachHang.genruntimeconfig.cache

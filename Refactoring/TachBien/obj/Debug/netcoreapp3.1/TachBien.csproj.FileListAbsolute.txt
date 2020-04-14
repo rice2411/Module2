@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\Refactoring\TachBien\bin\Debug\netcoreapp3.1\TachBien.exe
+D:\CodeGym\Module2\Baitap\Refactoring\TachBien\bin\Debug\netcoreapp3.1\TachBien.deps.json
+D:\CodeGym\Module2\Baitap\Refactoring\TachBien\bin\Debug\netcoreapp3.1\TachBien.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\Refactoring\TachBien\bin\Debug\netcoreapp3.1\TachBien.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\Refactoring\TachBien\bin\Debug\netcoreapp3.1\TachBien.dll
+D:\CodeGym\Module2\Baitap\Refactoring\TachBien\bin\Debug\netcoreapp3.1\TachBien.pdb
+D:\CodeGym\Module2\Baitap\Refactoring\TachBien\obj\Debug\netcoreapp3.1\TachBien.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\Refactoring\TachBien\obj\Debug\netcoreapp3.1\TachBien.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\Refactoring\TachBien\obj\Debug\netcoreapp3.1\TachBien.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\Refactoring\TachBien\obj\Debug\netcoreapp3.1\TachBien.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\Refactoring\TachBien\obj\Debug\netcoreapp3.1\TachBien.dll
+D:\CodeGym\Module2\Baitap\Refactoring\TachBien\obj\Debug\netcoreapp3.1\TachBien.pdb
+D:\CodeGym\Module2\Baitap\Refactoring\TachBien\obj\Debug\netcoreapp3.1\TachBien.genruntimeconfig.cache

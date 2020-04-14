@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\Refactoring\TachPhuongThuc\bin\Debug\netcoreapp3.1\TachPhuongThuc.exe
+D:\CodeGym\Module2\Baitap\Refactoring\TachPhuongThuc\bin\Debug\netcoreapp3.1\TachPhuongThuc.deps.json
+D:\CodeGym\Module2\Baitap\Refactoring\TachPhuongThuc\bin\Debug\netcoreapp3.1\TachPhuongThuc.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\Refactoring\TachPhuongThuc\bin\Debug\netcoreapp3.1\TachPhuongThuc.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\Refactoring\TachPhuongThuc\bin\Debug\netcoreapp3.1\TachPhuongThuc.dll
+D:\CodeGym\Module2\Baitap\Refactoring\TachPhuongThuc\bin\Debug\netcoreapp3.1\TachPhuongThuc.pdb
+D:\CodeGym\Module2\Baitap\Refactoring\TachPhuongThuc\obj\Debug\netcoreapp3.1\TachPhuongThuc.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\Refactoring\TachPhuongThuc\obj\Debug\netcoreapp3.1\TachPhuongThuc.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\Refactoring\TachPhuongThuc\obj\Debug\netcoreapp3.1\TachPhuongThuc.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\Refactoring\TachPhuongThuc\obj\Debug\netcoreapp3.1\TachPhuongThuc.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\Refactoring\TachPhuongThuc\obj\Debug\netcoreapp3.1\TachPhuongThuc.dll
+D:\CodeGym\Module2\Baitap\Refactoring\TachPhuongThuc\obj\Debug\netcoreapp3.1\TachPhuongThuc.pdb
+D:\CodeGym\Module2\Baitap\Refactoring\TachPhuongThuc\obj\Debug\netcoreapp3.1\TachPhuongThuc.genruntimeconfig.cache
