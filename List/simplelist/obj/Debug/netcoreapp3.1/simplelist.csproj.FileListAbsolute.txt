@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\List\simplelist\bin\Debug\netcoreapp3.1\simplelist.exe
+D:\CodeGym\Module2\Baitap\List\simplelist\bin\Debug\netcoreapp3.1\simplelist.deps.json
+D:\CodeGym\Module2\Baitap\List\simplelist\bin\Debug\netcoreapp3.1\simplelist.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\List\simplelist\bin\Debug\netcoreapp3.1\simplelist.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\List\simplelist\bin\Debug\netcoreapp3.1\simplelist.dll
+D:\CodeGym\Module2\Baitap\List\simplelist\bin\Debug\netcoreapp3.1\simplelist.pdb
+D:\CodeGym\Module2\Baitap\List\simplelist\obj\Debug\netcoreapp3.1\simplelist.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\List\simplelist\obj\Debug\netcoreapp3.1\simplelist.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\List\simplelist\obj\Debug\netcoreapp3.1\simplelist.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\List\simplelist\obj\Debug\netcoreapp3.1\simplelist.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\List\simplelist\obj\Debug\netcoreapp3.1\simplelist.dll
+D:\CodeGym\Module2\Baitap\List\simplelist\obj\Debug\netcoreapp3.1\simplelist.pdb
+D:\CodeGym\Module2\Baitap\List\simplelist\obj\Debug\netcoreapp3.1\simplelist.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\BaiTap\BaiTapOOP3\bin\Debug\netcoreapp3.1\BaiTapOOP3.exe
+D:\CodeGym\Module2\Baitap\BaiTap\BaiTapOOP3\bin\Debug\netcoreapp3.1\BaiTapOOP3.deps.json
+D:\CodeGym\Module2\Baitap\BaiTap\BaiTapOOP3\bin\Debug\netcoreapp3.1\BaiTapOOP3.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\BaiTap\BaiTapOOP3\bin\Debug\netcoreapp3.1\BaiTapOOP3.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\BaiTap\BaiTapOOP3\bin\Debug\netcoreapp3.1\BaiTapOOP3.dll
+D:\CodeGym\Module2\Baitap\BaiTap\BaiTapOOP3\bin\Debug\netcoreapp3.1\BaiTapOOP3.pdb
+D:\CodeGym\Module2\Baitap\BaiTap\BaiTapOOP3\obj\Debug\netcoreapp3.1\BaiTapOOP3.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\BaiTap\BaiTapOOP3\obj\Debug\netcoreapp3.1\BaiTapOOP3.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\BaiTap\BaiTapOOP3\obj\Debug\netcoreapp3.1\BaiTapOOP3.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\BaiTap\BaiTapOOP3\obj\Debug\netcoreapp3.1\BaiTapOOP3.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\BaiTap\BaiTapOOP3\obj\Debug\netcoreapp3.1\BaiTapOOP3.dll
+D:\CodeGym\Module2\Baitap\BaiTap\BaiTapOOP3\obj\Debug\netcoreapp3.1\BaiTapOOP3.pdb
+D:\CodeGym\Module2\Baitap\BaiTap\BaiTapOOP3\obj\Debug\netcoreapp3.1\BaiTapOOP3.genruntimeconfig.cache
