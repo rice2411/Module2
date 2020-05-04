@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\BaiTap\AbstratPractice\bin\Debug\netcoreapp3.1\AbstratPractice.exe
+D:\CodeGym\Module2\Baitap\BaiTap\AbstratPractice\bin\Debug\netcoreapp3.1\AbstratPractice.deps.json
+D:\CodeGym\Module2\Baitap\BaiTap\AbstratPractice\bin\Debug\netcoreapp3.1\AbstratPractice.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\BaiTap\AbstratPractice\bin\Debug\netcoreapp3.1\AbstratPractice.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\BaiTap\AbstratPractice\bin\Debug\netcoreapp3.1\AbstratPractice.dll
+D:\CodeGym\Module2\Baitap\BaiTap\AbstratPractice\bin\Debug\netcoreapp3.1\AbstratPractice.pdb
+D:\CodeGym\Module2\Baitap\BaiTap\AbstratPractice\obj\Debug\netcoreapp3.1\AbstratPractice.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\BaiTap\AbstratPractice\obj\Debug\netcoreapp3.1\AbstratPractice.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\BaiTap\AbstratPractice\obj\Debug\netcoreapp3.1\AbstratPractice.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\BaiTap\AbstratPractice\obj\Debug\netcoreapp3.1\AbstratPractice.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\BaiTap\AbstratPractice\obj\Debug\netcoreapp3.1\AbstratPractice.dll
+D:\CodeGym\Module2\Baitap\BaiTap\AbstratPractice\obj\Debug\netcoreapp3.1\AbstratPractice.pdb
+D:\CodeGym\Module2\Baitap\BaiTap\AbstratPractice\obj\Debug\netcoreapp3.1\AbstratPractice.genruntimeconfig.cache

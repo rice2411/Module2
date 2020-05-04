@@ -10,3 +10,4 @@ D:\CodeGym\Module2\Baitap\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap1.Assembly
 D:\CodeGym\Module2\Baitap\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap1.dll
 D:\CodeGym\Module2\Baitap\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap1.pdb
 D:\CodeGym\Module2\Baitap\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap1.genruntimeconfig.cache
+D:\CodeGym\Module2\Baitap\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap1.csprojAssemblyReference.cache

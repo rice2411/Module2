@@ -8,7 +8,9 @@ namespace IColorable
         {
          
             Triangle a = new Triangle();
+            Square b = new Square();
             Console.WriteLine(a.getArea());
+            Console.WriteLine(b.HowtoColor());
         }
     }
 }

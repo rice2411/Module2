@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nextday", "ConsoleApp1\Nextday.csproj", "{C957F76D-5B8D-4C41-A848-1B449F0D80FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextDayTest", "NextDayTest\NextDayTest.csproj", "{CD2FC3F9-ED78-4D6D-8EF3-5450CB9006B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C957F76D-5B8D-4C41-A848-1B449F0D80FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C957F76D-5B8D-4C41-A848-1B449F0D80FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C957F76D-5B8D-4C41-A848-1B449F0D80FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C957F76D-5B8D-4C41-A848-1B449F0D80FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD2FC3F9-ED78-4D6D-8EF3-5450CB9006B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2FC3F9-ED78-4D6D-8EF3-5450CB9006B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2FC3F9-ED78-4D6D-8EF3-5450CB9006B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2FC3F9-ED78-4D6D-8EF3-5450CB9006B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {259119AC-478E-4A95-A2AD-35FBB677AA35}
+	EndGlobalSection
+EndGlobal

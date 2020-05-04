@@ -1,0 +1,12 @@
+D:\CodeGym\Module2\Baitap\TDD\Nextday\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Nextday.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\TDD\Nextday\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Nextday.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\TDD\Nextday\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Nextday.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\TDD\Nextday\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Nextday.exe
+D:\CodeGym\Module2\Baitap\TDD\Nextday\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Nextday.deps.json
+D:\CodeGym\Module2\Baitap\TDD\Nextday\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Nextday.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\TDD\Nextday\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Nextday.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\TDD\Nextday\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Nextday.dll
+D:\CodeGym\Module2\Baitap\TDD\Nextday\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Nextday.pdb
+D:\CodeGym\Module2\Baitap\TDD\Nextday\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Nextday.dll
+D:\CodeGym\Module2\Baitap\TDD\Nextday\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Nextday.pdb
+D:\CodeGym\Module2\Baitap\TDD\Nextday\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Nextday.genruntimeconfig.cache

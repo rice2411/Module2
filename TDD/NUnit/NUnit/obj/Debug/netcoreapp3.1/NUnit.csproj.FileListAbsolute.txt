@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\TDD\NUnit\NUnit\bin\Debug\netcoreapp3.1\NUnit.exe
+D:\CodeGym\Module2\Baitap\TDD\NUnit\NUnit\bin\Debug\netcoreapp3.1\NUnit.deps.json
+D:\CodeGym\Module2\Baitap\TDD\NUnit\NUnit\bin\Debug\netcoreapp3.1\NUnit.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\TDD\NUnit\NUnit\bin\Debug\netcoreapp3.1\NUnit.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\TDD\NUnit\NUnit\bin\Debug\netcoreapp3.1\NUnit.dll
+D:\CodeGym\Module2\Baitap\TDD\NUnit\NUnit\bin\Debug\netcoreapp3.1\NUnit.pdb
+D:\CodeGym\Module2\Baitap\TDD\NUnit\NUnit\obj\Debug\netcoreapp3.1\NUnit.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\TDD\NUnit\NUnit\obj\Debug\netcoreapp3.1\NUnit.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\TDD\NUnit\NUnit\obj\Debug\netcoreapp3.1\NUnit.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\TDD\NUnit\NUnit\obj\Debug\netcoreapp3.1\NUnit.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\TDD\NUnit\NUnit\obj\Debug\netcoreapp3.1\NUnit.dll
+D:\CodeGym\Module2\Baitap\TDD\NUnit\NUnit\obj\Debug\netcoreapp3.1\NUnit.pdb
+D:\CodeGym\Module2\Baitap\TDD\NUnit\NUnit\obj\Debug\netcoreapp3.1\NUnit.genruntimeconfig.cache

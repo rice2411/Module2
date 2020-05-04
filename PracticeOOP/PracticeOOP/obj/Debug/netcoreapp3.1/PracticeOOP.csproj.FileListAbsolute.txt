@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\PracticeOOP\PracticeOOP\bin\Debug\netcoreapp3.1\PracticeOOP.exe
+D:\CodeGym\Module2\Baitap\PracticeOOP\PracticeOOP\bin\Debug\netcoreapp3.1\PracticeOOP.deps.json
+D:\CodeGym\Module2\Baitap\PracticeOOP\PracticeOOP\bin\Debug\netcoreapp3.1\PracticeOOP.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\PracticeOOP\PracticeOOP\bin\Debug\netcoreapp3.1\PracticeOOP.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\PracticeOOP\PracticeOOP\bin\Debug\netcoreapp3.1\PracticeOOP.dll
+D:\CodeGym\Module2\Baitap\PracticeOOP\PracticeOOP\bin\Debug\netcoreapp3.1\PracticeOOP.pdb
+D:\CodeGym\Module2\Baitap\PracticeOOP\PracticeOOP\obj\Debug\netcoreapp3.1\PracticeOOP.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\PracticeOOP\PracticeOOP\obj\Debug\netcoreapp3.1\PracticeOOP.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\PracticeOOP\PracticeOOP\obj\Debug\netcoreapp3.1\PracticeOOP.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\PracticeOOP\PracticeOOP\obj\Debug\netcoreapp3.1\PracticeOOP.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\PracticeOOP\PracticeOOP\obj\Debug\netcoreapp3.1\PracticeOOP.dll
+D:\CodeGym\Module2\Baitap\PracticeOOP\PracticeOOP\obj\Debug\netcoreapp3.1\PracticeOOP.pdb
+D:\CodeGym\Module2\Baitap\PracticeOOP\PracticeOOP\obj\Debug\netcoreapp3.1\PracticeOOP.genruntimeconfig.cache

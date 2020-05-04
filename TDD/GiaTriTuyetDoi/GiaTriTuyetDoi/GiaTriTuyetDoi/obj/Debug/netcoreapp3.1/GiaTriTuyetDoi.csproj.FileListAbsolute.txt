@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\TDD\GiaTriTuyetDoi\GiaTriTuyetDoi\GiaTriTuyetDoi\obj\Debug\netcoreapp3.1\GiaTriTuyetDoi.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\TDD\GiaTriTuyetDoi\GiaTriTuyetDoi\GiaTriTuyetDoi\obj\Debug\netcoreapp3.1\GiaTriTuyetDoi.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\TDD\GiaTriTuyetDoi\GiaTriTuyetDoi\GiaTriTuyetDoi\obj\Debug\netcoreapp3.1\GiaTriTuyetDoi.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\TDD\GiaTriTuyetDoi\GiaTriTuyetDoi\GiaTriTuyetDoi\obj\Debug\netcoreapp3.1\GiaTriTuyetDoi.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\TDD\GiaTriTuyetDoi\GiaTriTuyetDoi\GiaTriTuyetDoi\bin\Debug\netcoreapp3.1\GiaTriTuyetDoi.exe
+D:\CodeGym\Module2\Baitap\TDD\GiaTriTuyetDoi\GiaTriTuyetDoi\GiaTriTuyetDoi\bin\Debug\netcoreapp3.1\GiaTriTuyetDoi.deps.json
+D:\CodeGym\Module2\Baitap\TDD\GiaTriTuyetDoi\GiaTriTuyetDoi\GiaTriTuyetDoi\bin\Debug\netcoreapp3.1\GiaTriTuyetDoi.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\TDD\GiaTriTuyetDoi\GiaTriTuyetDoi\GiaTriTuyetDoi\bin\Debug\netcoreapp3.1\GiaTriTuyetDoi.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\TDD\GiaTriTuyetDoi\GiaTriTuyetDoi\GiaTriTuyetDoi\bin\Debug\netcoreapp3.1\GiaTriTuyetDoi.dll
+D:\CodeGym\Module2\Baitap\TDD\GiaTriTuyetDoi\GiaTriTuyetDoi\GiaTriTuyetDoi\bin\Debug\netcoreapp3.1\GiaTriTuyetDoi.pdb
+D:\CodeGym\Module2\Baitap\TDD\GiaTriTuyetDoi\GiaTriTuyetDoi\GiaTriTuyetDoi\obj\Debug\netcoreapp3.1\GiaTriTuyetDoi.dll
+D:\CodeGym\Module2\Baitap\TDD\GiaTriTuyetDoi\GiaTriTuyetDoi\GiaTriTuyetDoi\obj\Debug\netcoreapp3.1\GiaTriTuyetDoi.pdb
+D:\CodeGym\Module2\Baitap\TDD\GiaTriTuyetDoi\GiaTriTuyetDoi\GiaTriTuyetDoi\obj\Debug\netcoreapp3.1\GiaTriTuyetDoi.genruntimeconfig.cache
