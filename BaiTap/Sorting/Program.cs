@@ -31,7 +31,7 @@ namespace Sorting
             DateTime start2 = DateTime.Now;
             iss.InsertionSort(arr2);
             DateTime end2 = DateTime.Now;
-            Console.WriteLine($"SelectionSort time working:{end2 - start2} ms ");
+            Console.WriteLine($"InsertionSort time working:{end2 - start2} ms ");
             HelpFunction.Show(arr2);
             Console.WriteLine();
             Console.WriteLine("----------------");
