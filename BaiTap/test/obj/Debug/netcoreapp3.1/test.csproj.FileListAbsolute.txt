@@ -1,0 +1,12 @@
+D:\CodeGym\Module2\Baitap\BaiTap\test\bin\Debug\netcoreapp3.1\test.exe
+D:\CodeGym\Module2\Baitap\BaiTap\test\bin\Debug\netcoreapp3.1\test.deps.json
+D:\CodeGym\Module2\Baitap\BaiTap\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\BaiTap\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\BaiTap\test\bin\Debug\netcoreapp3.1\test.dll
+D:\CodeGym\Module2\Baitap\BaiTap\test\bin\Debug\netcoreapp3.1\test.pdb
+D:\CodeGym\Module2\Baitap\BaiTap\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\BaiTap\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\BaiTap\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\BaiTap\test\obj\Debug\netcoreapp3.1\test.dll
+D:\CodeGym\Module2\Baitap\BaiTap\test\obj\Debug\netcoreapp3.1\test.pdb
+D:\CodeGym\Module2\Baitap\BaiTap\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache

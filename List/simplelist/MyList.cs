@@ -5,7 +5,7 @@ namespace simplelist
     class MyList<T>
     {
         private int Capacity { get; set; }
-        private Object[] Items;
+        private readonly Object[] Items;
         public MyList()
         {
             Items = new Object[10];

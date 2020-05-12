@@ -15,7 +15,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTapOOP2", "BaiTapOOP2\Ba
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTapOOP3", "BaiTapOOP3\BaiTapOOP3.csproj", "{000DB11C-B40A-4C58-8A32-2C397CAA8A23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstratPractice", "AbstratPractice\AbstratPractice.csproj", "{DB25C153-BB5E-4634-9DF4-504955B4CE44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstratPractice", "AbstratPractice\AbstratPractice.csproj", "{DB25C153-BB5E-4634-9DF4-504955B4CE44}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTapCollection", "BaiTapCollection\BaiTapCollection.csproj", "{EAE6F974-CE68-4B7B-AB68-C452B94FFFA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTapCollection2", "BaiTapCollection2\BaiTapCollection2.csproj", "{2CDDEE29-65B6-4953-B067-377E13C83C3C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KiemTra", "KiemTra\KiemTra.csproj", "{27BA2F75-659D-4F39-B8EA-7B1E355A949A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test", "test\test.csproj", "{FA865681-CBDB-4071-9D13-4742E3779785}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{80E3C1DB-597C-45DD-99AF-8AD98C97E685}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +61,26 @@ Global
 		{DB25C153-BB5E-4634-9DF4-504955B4CE44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB25C153-BB5E-4634-9DF4-504955B4CE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB25C153-BB5E-4634-9DF4-504955B4CE44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE6F974-CE68-4B7B-AB68-C452B94FFFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE6F974-CE68-4B7B-AB68-C452B94FFFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE6F974-CE68-4B7B-AB68-C452B94FFFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE6F974-CE68-4B7B-AB68-C452B94FFFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CDDEE29-65B6-4953-B067-377E13C83C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CDDEE29-65B6-4953-B067-377E13C83C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CDDEE29-65B6-4953-B067-377E13C83C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CDDEE29-65B6-4953-B067-377E13C83C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27BA2F75-659D-4F39-B8EA-7B1E355A949A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BA2F75-659D-4F39-B8EA-7B1E355A949A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BA2F75-659D-4F39-B8EA-7B1E355A949A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BA2F75-659D-4F39-B8EA-7B1E355A949A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA865681-CBDB-4071-9D13-4742E3779785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA865681-CBDB-4071-9D13-4742E3779785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA865681-CBDB-4071-9D13-4742E3779785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA865681-CBDB-4071-9D13-4742E3779785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E3C1DB-597C-45DD-99AF-8AD98C97E685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E3C1DB-597C-45DD-99AF-8AD98C97E685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E3C1DB-597C-45DD-99AF-8AD98C97E685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E3C1DB-597C-45DD-99AF-8AD98C97E685}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

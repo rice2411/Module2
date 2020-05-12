@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BaiTapCollection2/1.0.0": {
+        "runtime": {
+          "BaiTapCollection2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaiTapCollection2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

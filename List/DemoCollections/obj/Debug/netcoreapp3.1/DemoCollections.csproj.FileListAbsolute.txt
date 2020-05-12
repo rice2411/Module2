@@ -1,0 +1,12 @@
+D:\CodeGym\Module2\Baitap\List\DemoCollections\bin\Debug\netcoreapp3.1\DemoCollections.exe
+D:\CodeGym\Module2\Baitap\List\DemoCollections\bin\Debug\netcoreapp3.1\DemoCollections.deps.json
+D:\CodeGym\Module2\Baitap\List\DemoCollections\bin\Debug\netcoreapp3.1\DemoCollections.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\List\DemoCollections\bin\Debug\netcoreapp3.1\DemoCollections.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\List\DemoCollections\bin\Debug\netcoreapp3.1\DemoCollections.dll
+D:\CodeGym\Module2\Baitap\List\DemoCollections\bin\Debug\netcoreapp3.1\DemoCollections.pdb
+D:\CodeGym\Module2\Baitap\List\DemoCollections\obj\Debug\netcoreapp3.1\DemoCollections.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\List\DemoCollections\obj\Debug\netcoreapp3.1\DemoCollections.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\List\DemoCollections\obj\Debug\netcoreapp3.1\DemoCollections.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\List\DemoCollections\obj\Debug\netcoreapp3.1\DemoCollections.dll
+D:\CodeGym\Module2\Baitap\List\DemoCollections\obj\Debug\netcoreapp3.1\DemoCollections.pdb
+D:\CodeGym\Module2\Baitap\List\DemoCollections\obj\Debug\netcoreapp3.1\DemoCollections.genruntimeconfig.cache

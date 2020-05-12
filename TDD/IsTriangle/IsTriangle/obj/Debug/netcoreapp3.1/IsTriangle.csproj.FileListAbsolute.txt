@@ -1,0 +1,12 @@
+D:\CodeGym\Module2\Baitap\TDD\IsTriangle\IsTriangle\bin\Debug\netcoreapp3.1\IsTriangle.exe
+D:\CodeGym\Module2\Baitap\TDD\IsTriangle\IsTriangle\bin\Debug\netcoreapp3.1\IsTriangle.deps.json
+D:\CodeGym\Module2\Baitap\TDD\IsTriangle\IsTriangle\bin\Debug\netcoreapp3.1\IsTriangle.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\TDD\IsTriangle\IsTriangle\bin\Debug\netcoreapp3.1\IsTriangle.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\TDD\IsTriangle\IsTriangle\bin\Debug\netcoreapp3.1\IsTriangle.dll
+D:\CodeGym\Module2\Baitap\TDD\IsTriangle\IsTriangle\bin\Debug\netcoreapp3.1\IsTriangle.pdb
+D:\CodeGym\Module2\Baitap\TDD\IsTriangle\IsTriangle\obj\Debug\netcoreapp3.1\IsTriangle.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\TDD\IsTriangle\IsTriangle\obj\Debug\netcoreapp3.1\IsTriangle.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\TDD\IsTriangle\IsTriangle\obj\Debug\netcoreapp3.1\IsTriangle.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\TDD\IsTriangle\IsTriangle\obj\Debug\netcoreapp3.1\IsTriangle.dll
+D:\CodeGym\Module2\Baitap\TDD\IsTriangle\IsTriangle\obj\Debug\netcoreapp3.1\IsTriangle.pdb
+D:\CodeGym\Module2\Baitap\TDD\IsTriangle\IsTriangle\obj\Debug\netcoreapp3.1\IsTriangle.genruntimeconfig.cache

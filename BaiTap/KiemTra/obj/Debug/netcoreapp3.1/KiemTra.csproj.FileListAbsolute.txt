@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\BaiTap\KiemTra\obj\Debug\netcoreapp3.1\KiemTra.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\BaiTap\KiemTra\obj\Debug\netcoreapp3.1\KiemTra.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\BaiTap\KiemTra\obj\Debug\netcoreapp3.1\KiemTra.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\BaiTap\KiemTra\bin\Debug\netcoreapp3.1\KiemTra.exe
+D:\CodeGym\Module2\Baitap\BaiTap\KiemTra\bin\Debug\netcoreapp3.1\KiemTra.deps.json
+D:\CodeGym\Module2\Baitap\BaiTap\KiemTra\bin\Debug\netcoreapp3.1\KiemTra.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\BaiTap\KiemTra\bin\Debug\netcoreapp3.1\KiemTra.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\BaiTap\KiemTra\bin\Debug\netcoreapp3.1\KiemTra.dll
+D:\CodeGym\Module2\Baitap\BaiTap\KiemTra\bin\Debug\netcoreapp3.1\KiemTra.pdb
+D:\CodeGym\Module2\Baitap\BaiTap\KiemTra\obj\Debug\netcoreapp3.1\KiemTra.dll
+D:\CodeGym\Module2\Baitap\BaiTap\KiemTra\obj\Debug\netcoreapp3.1\KiemTra.pdb
+D:\CodeGym\Module2\Baitap\BaiTap\KiemTra\obj\Debug\netcoreapp3.1\KiemTra.genruntimeconfig.cache
+D:\CodeGym\Module2\Baitap\BaiTap\KiemTra\obj\Debug\netcoreapp3.1\KiemTra.csprojAssemblyReference.cache

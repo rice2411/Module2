@@ -86,11 +86,6 @@ namespace nextday
             }
             return false;
         }
-        public  bool check(DateTime day)
-        {
-            if (day.Month < 0 || day.Month > 12 || day.Day < 0 || day.Day > 31)
-                return false;
-            return true;
-        }
+       
     }
 }
