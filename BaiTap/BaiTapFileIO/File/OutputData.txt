@@ -7,3 +7,12 @@ Giá trị ma trận nhân 3:
 6 12 9 
 3 3 3 
 6 15 21 
+Tổng giá trị trong ma trận: 26
+Số lượng số nguyên tố: 5
+Số lượng số lẻ:6
+Tổng giá trị đường biên: 39
+Giá trị ma trận nhân 3: 
+3 3
+6 12 9 
+3 3 3 
+6 15 21 

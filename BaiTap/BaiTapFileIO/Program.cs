@@ -42,7 +42,7 @@ namespace BaiTapFileIO
                 }
             }
             
-            using (StreamWriter sw = File.CreateText(pathOutput))
+            using (StreamWriter sw = File.AppendText(pathOutput))
             {
                 sw.Write("Tổng giá trị trong ma trận: ");
                 sw.WriteLine(total);
