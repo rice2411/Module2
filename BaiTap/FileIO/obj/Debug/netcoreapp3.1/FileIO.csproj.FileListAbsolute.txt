@@ -1,0 +1,13 @@
+D:\CodeGym\Module2\Baitap\BaiTap\FileIO\bin\Debug\netcoreapp3.1\FileIO.exe
+D:\CodeGym\Module2\Baitap\BaiTap\FileIO\bin\Debug\netcoreapp3.1\FileIO.deps.json
+D:\CodeGym\Module2\Baitap\BaiTap\FileIO\bin\Debug\netcoreapp3.1\FileIO.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\BaiTap\FileIO\bin\Debug\netcoreapp3.1\FileIO.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\BaiTap\FileIO\bin\Debug\netcoreapp3.1\FileIO.dll
+D:\CodeGym\Module2\Baitap\BaiTap\FileIO\bin\Debug\netcoreapp3.1\FileIO.pdb
+D:\CodeGym\Module2\Baitap\BaiTap\FileIO\obj\Debug\netcoreapp3.1\FileIO.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\BaiTap\FileIO\obj\Debug\netcoreapp3.1\FileIO.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\BaiTap\FileIO\obj\Debug\netcoreapp3.1\FileIO.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\BaiTap\FileIO\obj\Debug\netcoreapp3.1\FileIO.dll
+D:\CodeGym\Module2\Baitap\BaiTap\FileIO\obj\Debug\netcoreapp3.1\FileIO.pdb
+D:\CodeGym\Module2\Baitap\BaiTap\FileIO\obj\Debug\netcoreapp3.1\FileIO.genruntimeconfig.cache
+D:\CodeGym\Module2\Baitap\BaiTap\FileIO\obj\Debug\netcoreapp3.1\FileIO.csprojAssemblyReference.cache
