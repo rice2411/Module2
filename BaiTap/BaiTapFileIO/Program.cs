@@ -11,10 +11,9 @@ namespace BaiTapFileIO
             string pathInput = @"D:\CodeGym\Module2\Baitap\BaiTap\BaiTapFileIO\File\InputData.txt";
             string pathOutput= @"D:\CodeGym\Module2\Baitap\BaiTap\BaiTapFileIO\File\OutputData.txt";
             int[,] matrix,matrix2;
-            int total = 0;
-            int primeNumber = 0;
-            int oddNumber = 0;
-       
+            int total = ZERO;
+            int primeNumber = ZERO;
+            int oddNumber = ZERO;
             int row, col;   
             using(StreamReader sr = File.OpenText(pathInput))
             {
