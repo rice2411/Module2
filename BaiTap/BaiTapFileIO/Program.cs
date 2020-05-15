@@ -4,8 +4,7 @@ namespace BaiTapFileIO
 {
     class Program
     {
-        public const int ZERO  = 0;
-        public const int NUMBER_OF_EVEN = 2;
+        
         static void Main(string[] args)
         {
             string pathInput = @"D:\CodeGym\Module2\Baitap\BaiTap\BaiTapFileIO\File\InputData.txt";

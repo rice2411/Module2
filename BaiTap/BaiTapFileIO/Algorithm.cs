@@ -42,25 +42,10 @@ namespace BaiTapFileIO
         }
         public static bool isPrime(int num)
         {
-         
-         
-            for (int i = 1; i < num - 1; i++)
-            {
-                if (num < 2)
-                {
-                    return false;
-                }
-                else if(num==2)
-                {
-                    return true;
-                }
-                 else if (num % i == 0)
-                {
-                    return false;
-                }
-                    
-            }
-            return true;
+            for (int i = 2; i < Math.Sqrt(num) ; i++)        
+                if(num%i==0)
+                return false;
+            return num>=2 && true;
         }
         public static int totalOfSide(int[,] arr)
         {
