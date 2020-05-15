@@ -29,9 +29,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorting", "Sorting\Sorting.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TryCatchDemo", "TryCatchDemo\TryCatchDemo.csproj", "{3AFD33CD-A011-4FD9-A927-19026D71A9BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIO", "FileIO\FileIO.csproj", "{E0EB645D-5BA4-4ABC-8E1B-F90FD561C16A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileIO", "FileIO\FileIO.csproj", "{E0EB645D-5BA4-4ABC-8E1B-F90FD561C16A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapFileIO", "BaiTapFileIO\BaiTapFileIO.csproj", "{C02E7E0C-91D7-468E-AEED-A731DED8F1F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTapFileIO", "BaiTapFileIO\BaiTapFileIO.csproj", "{C02E7E0C-91D7-468E-AEED-A731DED8F1F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{96E8734D-745A-44B4-A17F-45F6C2704591}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadJSonFile", "ReadJSonFile\ReadJSonFile.csproj", "{C6541698-BA61-4028-8577-02BC750A0157}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +106,10 @@ Global
 		{C02E7E0C-91D7-468E-AEED-A731DED8F1F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C02E7E0C-91D7-468E-AEED-A731DED8F1F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C02E7E0C-91D7-468E-AEED-A731DED8F1F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6541698-BA61-4028-8577-02BC750A0157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6541698-BA61-4028-8577-02BC750A0157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6541698-BA61-4028-8577-02BC750A0157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6541698-BA61-4028-8577-02BC750A0157}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

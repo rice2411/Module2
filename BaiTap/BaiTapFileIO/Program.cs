@@ -11,9 +11,10 @@ namespace BaiTapFileIO
             string pathOutput= @"D:\CodeGym\Module2\Baitap\BaiTap\BaiTapFileIO\File\OutputData.txt";
             IOFile ioFile = new IOFile();
             ioFile.ReadFile(pathInput);
-            ioFile.WriteFile( pathOutput);
+            ioFile.WriteFile(pathOutput);
          
         }
         
     }
 }
+    

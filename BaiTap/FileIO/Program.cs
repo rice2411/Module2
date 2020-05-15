@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.IO;
 using FileIO;
 using System.Text;
@@ -46,7 +46,7 @@ namespace FileIO
                 
                 }
             }
-            /*  File.Create(path);
+            *//*  File.Create(path);
              if (File.Exists(path))
                  File.Delete(path);
              using (StreamWriter sw = File.CreateText(path))
@@ -59,7 +59,8 @@ namespace FileIO
                  string valueofline = "";
                  while ((valueofline = sr.ReadLine()) != null)
                      Console.WriteLine(valueofline);
-             };*/
+             };*//*
         }
     }
 }
+*/

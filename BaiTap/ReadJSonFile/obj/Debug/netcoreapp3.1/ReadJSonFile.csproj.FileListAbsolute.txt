@@ -1,0 +1,15 @@
+D:\CodeGym\Module2\Baitap\BaiTap\ReadJSonFile\bin\Debug\netcoreapp3.1\ReadJSonFile.exe
+D:\CodeGym\Module2\Baitap\BaiTap\ReadJSonFile\obj\Debug\netcoreapp3.1\ReadJSonFile.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\BaiTap\ReadJSonFile\obj\Debug\netcoreapp3.1\ReadJSonFile.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\BaiTap\ReadJSonFile\bin\Debug\netcoreapp3.1\ReadJSonFile.deps.json
+D:\CodeGym\Module2\Baitap\BaiTap\ReadJSonFile\bin\Debug\netcoreapp3.1\ReadJSonFile.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\BaiTap\ReadJSonFile\bin\Debug\netcoreapp3.1\ReadJSonFile.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\BaiTap\ReadJSonFile\bin\Debug\netcoreapp3.1\ReadJSonFile.dll
+D:\CodeGym\Module2\Baitap\BaiTap\ReadJSonFile\bin\Debug\netcoreapp3.1\ReadJSonFile.pdb
+D:\CodeGym\Module2\Baitap\BaiTap\ReadJSonFile\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\CodeGym\Module2\Baitap\BaiTap\ReadJSonFile\obj\Debug\netcoreapp3.1\ReadJSonFile.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\BaiTap\ReadJSonFile\obj\Debug\netcoreapp3.1\ReadJSonFile.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\BaiTap\ReadJSonFile\obj\Debug\netcoreapp3.1\ReadJSonFile.csproj.CopyComplete
+D:\CodeGym\Module2\Baitap\BaiTap\ReadJSonFile\obj\Debug\netcoreapp3.1\ReadJSonFile.dll
+D:\CodeGym\Module2\Baitap\BaiTap\ReadJSonFile\obj\Debug\netcoreapp3.1\ReadJSonFile.pdb
+D:\CodeGym\Module2\Baitap\BaiTap\ReadJSonFile\obj\Debug\netcoreapp3.1\ReadJSonFile.genruntimeconfig.cache
