@@ -1,0 +1,15 @@
+D:\CodeGym\Module2\Baitap\BaiTap\PraticeReadJSonFile\bin\Debug\netcoreapp3.1\PraticeReadJSonFile.exe
+D:\CodeGym\Module2\Baitap\BaiTap\PraticeReadJSonFile\obj\Debug\netcoreapp3.1\PraticeReadJSonFile.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\BaiTap\PraticeReadJSonFile\obj\Debug\netcoreapp3.1\PraticeReadJSonFile.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\BaiTap\PraticeReadJSonFile\obj\Debug\netcoreapp3.1\PraticeReadJSonFile.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\BaiTap\PraticeReadJSonFile\bin\Debug\netcoreapp3.1\PraticeReadJSonFile.deps.json
+D:\CodeGym\Module2\Baitap\BaiTap\PraticeReadJSonFile\bin\Debug\netcoreapp3.1\PraticeReadJSonFile.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\BaiTap\PraticeReadJSonFile\bin\Debug\netcoreapp3.1\PraticeReadJSonFile.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\BaiTap\PraticeReadJSonFile\bin\Debug\netcoreapp3.1\PraticeReadJSonFile.dll
+D:\CodeGym\Module2\Baitap\BaiTap\PraticeReadJSonFile\bin\Debug\netcoreapp3.1\PraticeReadJSonFile.pdb
+D:\CodeGym\Module2\Baitap\BaiTap\PraticeReadJSonFile\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\CodeGym\Module2\Baitap\BaiTap\PraticeReadJSonFile\obj\Debug\netcoreapp3.1\PraticeReadJSonFile.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\BaiTap\PraticeReadJSonFile\obj\Debug\netcoreapp3.1\PraticeReadJSonFile.csproj.CopyComplete
+D:\CodeGym\Module2\Baitap\BaiTap\PraticeReadJSonFile\obj\Debug\netcoreapp3.1\PraticeReadJSonFile.dll
+D:\CodeGym\Module2\Baitap\BaiTap\PraticeReadJSonFile\obj\Debug\netcoreapp3.1\PraticeReadJSonFile.pdb
+D:\CodeGym\Module2\Baitap\BaiTap\PraticeReadJSonFile\obj\Debug\netcoreapp3.1\PraticeReadJSonFile.genruntimeconfig.cache

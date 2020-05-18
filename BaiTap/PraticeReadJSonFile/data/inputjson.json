@@ -1,0 +1,67 @@
+{
+  "Students": [
+    {
+      "Id": 1,
+      "Name": "Minh",
+      "Gender": "True",
+      "Level": 12,
+      "Subjects": 
+	[
+		{
+		"Name": "Math",
+		"Score": 7
+		},
+		{
+		"Name": "Chemistry",
+		"Score": 7
+		},
+		{
+		"Name": "Physical",
+		"Score": 7
+		}
+	]
+    },
+    {
+      "Id": 2,
+      "Name": "Minh2",
+      "Gender": "False",
+      "Level": 12,
+      "Subjects": 
+	[
+		{
+		"Name": "Math",
+		"Score": 8
+		},
+		{
+		"Name": "Chemistry",
+		"Score": 9
+		},
+		{
+		"Name": "Physical",
+		"Score": 10
+		}
+	]
+    },
+    {
+      "Id": 3,
+      "Name": "Minh3",
+      "Gender": "False",
+      "Level": 11,
+      "Subjects": 
+	[
+		{
+		"Name": "Math",
+		"Score": 1
+		},
+		{
+		"Name": "Chemistry",
+		"Score": 2
+		},
+		{
+		"Name": "Physical",
+		"Score": 1
+		}	
+	]
+    }
+  ]
+}

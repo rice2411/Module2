@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4kSKqQAFaNS/d7cy/PpQFuZkqUU8TtFIJmT18tPcIBxh6Fp54CL0eVtraPetCCaL+A+jZINbf0jMWTwtyPBEiA==",
+  "success": true,
+  "projectFilePath": "D:\\CodeGym\\Module2\\Baitap\\BaiTap\\PraticeReadJSonFile\\PraticeReadJSonFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
