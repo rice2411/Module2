@@ -34,12 +34,19 @@ namespace PraticeReadJSonFile.Service
         }
         public void WriteJSon()
         {
-            ProcessData();
-            using (StreamWriter sw = File.CreateText(this.output))
+           try
             {
-                var data = JsonConvert.SerializeObject(result.results.Values);
+                ProcessData();
+                using (StreamWriter sw = File.CreateText(this.output))
+                {
+                    var data = JsonConvert.SerializeObject(result.results.Values);
 
-                sw.Write(data);
+                    sw.Write(data);
+                }
+                Console.WriteLine("Sucessfull");
+            } catch(Exception e)
+            {
+                Console.WriteLine("Some thing went wrong");
             }
         }
         public void ProcessData()
