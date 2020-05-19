@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kth5LbBvKKR03n6udMFDXLAEhPm86EaGEJObA6Wj4AYwKw6rWLbgONMGLUWwLIVfOj3DWgspTRCqwdiYDbd/DA==",
+  "success": true,
+  "projectFilePath": "D:\\CodeGym\\Module2\\Baitap\\BaiTap\\CoffeSimuLator\\CoffeSimuLator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

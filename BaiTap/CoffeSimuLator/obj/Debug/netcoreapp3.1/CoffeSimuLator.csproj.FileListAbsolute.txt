@@ -1,0 +1,15 @@
+D:\CodeGym\Module2\Baitap\BaiTap\CoffeSimuLator\bin\Debug\netcoreapp3.1\CoffeSimuLator.exe
+D:\CodeGym\Module2\Baitap\BaiTap\CoffeSimuLator\obj\Debug\netcoreapp3.1\CoffeSimuLator.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\BaiTap\CoffeSimuLator\obj\Debug\netcoreapp3.1\CoffeSimuLator.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\BaiTap\CoffeSimuLator\bin\Debug\netcoreapp3.1\CoffeSimuLator.deps.json
+D:\CodeGym\Module2\Baitap\BaiTap\CoffeSimuLator\bin\Debug\netcoreapp3.1\CoffeSimuLator.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\BaiTap\CoffeSimuLator\bin\Debug\netcoreapp3.1\CoffeSimuLator.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\BaiTap\CoffeSimuLator\bin\Debug\netcoreapp3.1\CoffeSimuLator.dll
+D:\CodeGym\Module2\Baitap\BaiTap\CoffeSimuLator\bin\Debug\netcoreapp3.1\CoffeSimuLator.pdb
+D:\CodeGym\Module2\Baitap\BaiTap\CoffeSimuLator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\CodeGym\Module2\Baitap\BaiTap\CoffeSimuLator\obj\Debug\netcoreapp3.1\CoffeSimuLator.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\BaiTap\CoffeSimuLator\obj\Debug\netcoreapp3.1\CoffeSimuLator.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\BaiTap\CoffeSimuLator\obj\Debug\netcoreapp3.1\CoffeSimuLator.csproj.CopyComplete
+D:\CodeGym\Module2\Baitap\BaiTap\CoffeSimuLator\obj\Debug\netcoreapp3.1\CoffeSimuLator.dll
+D:\CodeGym\Module2\Baitap\BaiTap\CoffeSimuLator\obj\Debug\netcoreapp3.1\CoffeSimuLator.pdb
+D:\CodeGym\Module2\Baitap\BaiTap\CoffeSimuLator\obj\Debug\netcoreapp3.1\CoffeSimuLator.genruntimeconfig.cache

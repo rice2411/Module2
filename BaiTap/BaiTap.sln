@@ -40,7 +40,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadJSonFile", "ReadJSonFile\ReadJSonFile.csproj", "{C6541698-BA61-4028-8577-02BC750A0157}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PraticeReadJSonFile", "PraticeReadJSonFile\PraticeReadJSonFile.csproj", "{CC416AF9-FDE0-45A6-B3B8-AA2A4672CAAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PraticeReadJSonFile", "PraticeReadJSonFile\PraticeReadJSonFile.csproj", "{CC416AF9-FDE0-45A6-B3B8-AA2A4672CAAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeSimuLator", "CoffeSimuLator\CoffeSimuLator.csproj", "{D4B19281-98E2-4EFC-BF24-15C3A8D5C491}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -116,6 +118,10 @@ Global
 		{CC416AF9-FDE0-45A6-B3B8-AA2A4672CAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC416AF9-FDE0-45A6-B3B8-AA2A4672CAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC416AF9-FDE0-45A6-B3B8-AA2A4672CAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B19281-98E2-4EFC-BF24-15C3A8D5C491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B19281-98E2-4EFC-BF24-15C3A8D5C491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B19281-98E2-4EFC-BF24-15C3A8D5C491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B19281-98E2-4EFC-BF24-15C3A8D5C491}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

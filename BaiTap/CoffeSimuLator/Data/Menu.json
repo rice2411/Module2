@@ -1,0 +1,19 @@
+{
+  "menu": 
+    [
+      {
+        "name": "black coffe",
+        "price": 10000
+      },
+      {
+        "name": "white coffe",
+        "price": 12000
+      },
+      {
+        "name": "pepsi",
+        "price": 15000
+      }
+    ]
+  
+
+}
