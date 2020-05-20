@@ -1,1 +1,16 @@
-{"tables":[{"id":2,"status":true,"timeIn":"2020-05-20T08:24:08.1445141+07:00","ordersDetails":[{"name":"black coffe","price":10000,"amout":3}]},{"id":4,"status":true,"timeIn":"2020-05-20T08:23:59.6434226+07:00","ordersDetails":[{"name":"pepsi","price":15000,"amout":3}]}]}
+{
+  "tables": [
+    {
+      "id": 3,
+      "status": true,
+      "timeIn": "2020-05-20T09:34:01.854228+07:00",
+      "ordersDetails": [
+        {
+          "name": "pepsi",
+          "price": 15000,
+          "amout": 1
+        }
+      ]
+    }
+  ]
+}

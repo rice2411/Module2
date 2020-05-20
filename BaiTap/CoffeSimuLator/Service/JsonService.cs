@@ -31,8 +31,7 @@ namespace CoffeSimuLator.Service
         }
         public void ReadJsonTable()
         {
-            using (
-               StreamReader sr = File.OpenText(this.usingtable))
+            using (StreamReader sr = File.OpenText(this.usingtable))
             {
                 var obj = sr.ReadToEnd();
                 tables = JsonConvert.DeserializeObject<PayLoadTable>(obj);

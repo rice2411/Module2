@@ -1,0 +1,15 @@
+D:\CodeGym\Module2\Baitap\BaiTap\Cart\bin\Debug\netcoreapp3.1\Cart.exe
+D:\CodeGym\Module2\Baitap\BaiTap\Cart\obj\Debug\netcoreapp3.1\Cart.csprojAssemblyReference.cache
+D:\CodeGym\Module2\Baitap\BaiTap\Cart\obj\Debug\netcoreapp3.1\Cart.AssemblyInfoInputs.cache
+D:\CodeGym\Module2\Baitap\BaiTap\Cart\obj\Debug\netcoreapp3.1\Cart.AssemblyInfo.cs
+D:\CodeGym\Module2\Baitap\BaiTap\Cart\bin\Debug\netcoreapp3.1\Cart.deps.json
+D:\CodeGym\Module2\Baitap\BaiTap\Cart\bin\Debug\netcoreapp3.1\Cart.runtimeconfig.json
+D:\CodeGym\Module2\Baitap\BaiTap\Cart\bin\Debug\netcoreapp3.1\Cart.runtimeconfig.dev.json
+D:\CodeGym\Module2\Baitap\BaiTap\Cart\bin\Debug\netcoreapp3.1\Cart.dll
+D:\CodeGym\Module2\Baitap\BaiTap\Cart\bin\Debug\netcoreapp3.1\Cart.pdb
+D:\CodeGym\Module2\Baitap\BaiTap\Cart\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\CodeGym\Module2\Baitap\BaiTap\Cart\obj\Debug\netcoreapp3.1\Cart.csproj.CoreCompileInputs.cache
+D:\CodeGym\Module2\Baitap\BaiTap\Cart\obj\Debug\netcoreapp3.1\Cart.csproj.CopyComplete
+D:\CodeGym\Module2\Baitap\BaiTap\Cart\obj\Debug\netcoreapp3.1\Cart.dll
+D:\CodeGym\Module2\Baitap\BaiTap\Cart\obj\Debug\netcoreapp3.1\Cart.pdb
+D:\CodeGym\Module2\Baitap\BaiTap\Cart\obj\Debug\netcoreapp3.1\Cart.genruntimeconfig.cache
