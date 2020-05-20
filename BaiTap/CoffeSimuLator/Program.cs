@@ -36,11 +36,12 @@ namespace CoffeSimuLator
             switch (choice)
             {
                 case 1:
-                   
+                
                     Console.Write("Input number of table: ");
                     int id = int.Parse(Console.ReadLine());
                     js.AddTable(id);
                     js.WriteJSon();
+                    js.ReadJsonTable();
                     Console.Clear();
                     Console.WriteLine("Check your data file");
                     break;

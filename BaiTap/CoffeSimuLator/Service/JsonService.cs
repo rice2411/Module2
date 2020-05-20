@@ -5,6 +5,7 @@ using System.Text;
 using System.IO;
 using System.Text.Json.Serialization;
 using Newtonsoft.Json;
+using System.Diagnostics.CodeAnalysis;
 using CoffeSimuLator.Payload;
 
 namespace CoffeSimuLator.Service
@@ -14,7 +15,6 @@ namespace CoffeSimuLator.Service
         private Bill bill;
         private PayLoadMenu menu;
         private PayLoadTable tables;
-
         private string inputmenu;
         private string outputbill;
         private string usingtable;
@@ -80,7 +80,7 @@ namespace CoffeSimuLator.Service
                 table.status = true;
                 table.timeIn = DateTime.Now;
                 tables.tables.Add(table);
-               
+                tables.tables.Sort(new CustomSort());
                 do
                 {
                     Console.Write("Input order :");
@@ -176,6 +176,22 @@ namespace CoffeSimuLator.Service
                 }
             }
             return false;
+        }
+        class CustomSort : IComparer<Table>
+        {
+            public int Compare([AllowNull] Table x, [AllowNull] Table y)
+            {
+                if (x.id > y.id)
+                {
+                    return 1;
+                }
+                else if (x.id == y.id)
+                {
+                    return 0;
+                }
+                else
+                    return -1;
+            }
         }
     }
 
