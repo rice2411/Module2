@@ -117,7 +117,7 @@ namespace CoffeSimuLator.Service
                  
                 do
                 {
-                Console.Write("Input order :");
+                Console.Write("Updart your order :");
                 order.name = Console.ReadLine();
                 Console.Write("Amount: ");
                 order.amout = int.Parse(Console.ReadLine());
