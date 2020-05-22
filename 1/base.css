@@ -1,0 +1,293 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+#Container
+{
+	width: 1150px;
+	height: 800px;
+	margin: 0 auto;
+}
+
+#Container1
+{
+	position: relative;
+	width: 100%;
+	height: 130px;
+}
+
+
+#Header
+{
+	width: 100%;
+	height: 90px;
+	background-color: rgb(218, 218, 218);
+}
+
+#Menubar
+{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 40px;
+	background-color: rgb(255, 216, 144);
+	border-bottom: 3px solid orange;
+	border-top: 2px solid rgb(190, 190, 190);
+	font-size: 20px;
+}
+#Menubar a:hover 
+{
+
+	color: Red;
+}
+
+#Logo
+{ 
+	position: absolute;
+	top: 0;
+	right: 120px;
+	width: 307px;
+	height: 172px;	
+}
+
+#Container2
+{
+	position: relative;
+	margin-top: 47px;
+	margin-left: 90px;
+	margin-right: 90px;
+	height: 514px;
+}
+
+#Content
+{
+	position: relative;
+	width: 637px;
+	height: 514px;
+}
+
+#Banner
+{
+	width: 637px;
+	height: 266px;
+}
+#Content1
+{
+	position: absolute;
+	bottom: 0;
+	background-color: rgb(255, 253, 215);
+	width: 221px;
+	height: 246px;
+	border: 1px solid orange;
+	border-top: none;
+	border-radius: 19px;
+}
+
+#Gametop
+{
+	width: 100%;
+	height: 70px;
+}
+
+
+#Mobipet
+{
+	position: relative;
+	width: 100%;
+	height: 39px;
+	margin-left: 10px;
+}
+
+#Mobipet1
+{
+	position: absolute;
+	top: 0;
+	left: 90px;
+	color: rgb(80, 80, 80);
+}
+
+
+#VDR
+{
+	position: relative;
+	width: 100%;
+	height: 41px;
+	margin-left: 10px;
+}
+
+#VDR1
+{
+	position: absolute;
+	top: 0;
+	left: 90px;
+	color: rgb(80, 80, 80);
+}
+
+
+
+#TH
+{
+	position: relative;
+	width: 100%;
+	height: 56px;
+	margin-left: 10px;
+}
+
+#TH1
+{
+	position: absolute;
+	top: 0;
+	left: 90px;
+	color: rgb(80, 80, 80);
+}
+
+#TQ
+{
+	position: relative;
+	width: 100%;
+	margin-left: 10px;
+
+}
+
+#TQ1
+{
+	position: absolute;
+	top: 0;
+	left: 90px;
+	color: rgb(80, 80, 80);
+}
+
+#Content2
+{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 400px;
+	height: 232px;
+}
+
+#Tintuc
+{
+	height: 24px;
+	line-height: 24px;
+	padding-left: 12px;
+	background: linear-gradient(to right, rgb(255, 216, 139), rgb(255, 225, 184), rgb(255, 238, 175), white); 
+}
+
+#Rightsidebar
+{
+	position: absolute;
+	right: 20px;
+	top: 0;
+	height: 330px;
+	width: 298px;
+}
+
+#Login
+{
+	background-color: rgb(255, 218, 118);
+	width: 288px;
+	height: 216px;
+	padding: 50px 0 0 10px;
+}
+
+#Support
+{
+	background-image: url('bg_support.gif');
+	padding: 16px 0 0 16px;
+	width: 282px;
+	height: 84px;
+}
+
+#SDT
+{
+	width: 159px;
+	height: 25px;
+	background-image: url('hotline.gif');
+}
+
+#Footer
+{
+	margin-top: 16px;
+	text-align: center;
+	color: rgb(80, 80, 80);
+	font-size: 14px;
+}
+
+.Border
+{
+	width: 700px;
+	height: 1px;
+	margin-left: 225px;
+	margin-top: 24px;
+	background: linear-gradient(to right, rgb(240, 240, 240), rgb(200, 200, 200), rgb(180, 180, 180), rgb(200, 200, 200), rgb(240, 240, 240)); 
+}
+
+input[type = text]
+{
+	width: 95%;
+	padding: 6px 6px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border: 3px ridge rgb(255, 216, 139);
+	transition: 0.5s;
+	outline: none; 
+}
+
+input[type = checkbox]
+{
+	width: 16px;
+	height: 16px;
+	margin-top: 10px;
+}
+
+.button
+{
+	position: absolute;
+	bottom: 104px;	
+	right: 16px;
+	width: 100px;
+	height: 30px;
+	border: none;
+	background-color: rgb(255, 147, 63);
+	color: white;
+	text-align: center;
+	line-height: 30px;
+}
+
+
+ul
+{
+	list-style-type: none;
+	margin-left: 90px;
+}
+
+li a
+{
+	text-decoration: none;
+	float: left;
+	text-align: center;
+	padding: 10px;
+	border-right: 1px solid orange;
+	font-size: 18px;
+	color: black;
+}
+
+li a.active
+{
+	color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+

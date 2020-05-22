@@ -50,8 +50,8 @@ namespace Cart
                     if(js.CreateBill())
                     {
                         js.WriteJson();
-                        Console.WriteLine("Success");
                         js.RemoveCart();
+                        Console.WriteLine("Success");
                     } else
                     {
                         Console.WriteLine("out of order");
